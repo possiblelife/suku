@@ -529,7 +529,7 @@ https://daddylivehd.one/live/stream-319.php|webdelayalldig$$delay=1
 https://daddylivehd.one/live/stream-292.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,Gold UK
 https://daddylivehd.one/live/stream-687.php|webdelayalldig$$delay=1
-#EXTINF:-1 ,Galavisi&oacute;n USA
+#EXTINF:-1 ,Galavisin USA
 https://daddylivehd.one/live/stream-743.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,CBC CA
 https://daddylivehd.one/live/stream-699.php|webdelayalldig$$delay=1
@@ -595,7 +595,7 @@ https://daddylivehd.one/live/stream-804.php|webdelayalldig$$delay=1
 https://daddylivehd.one/live/stream-731.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,LaLiga SmartBank TV
 https://daddylivehd.one/live/stream-539.php|webdelayalldig$$delay=1
-#EXTINF:-1 ,L&#39;Equipe France
+#EXTINF:-1 ,L'Equipe France
 https://daddylivehd.one/live/stream-645.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,La Sexta Spain
 https://daddylivehd.one/live/stream-534.php|webdelayalldig$$delay=1
@@ -621,7 +621,7 @@ https://daddylivehd.one/live/stream-138.php|webdelayalldig$$delay=1
 https://daddylivehd.one/live/stream-573.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,Match TV Russia
 https://daddylivehd.one/live/stream-127.php|webdelayalldig$$delay=1
-#EXTINF:-1 ,&#1052;&#1040;&#1058;&#1063;! &#1041;&#1054;&#1045;&#1062; Russia
+#EXTINF:-1 ,МАТЧ! БОЕЦ Russia
 https://daddylivehd.one/live/stream-395.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,Movistar Laliga
 https://daddylivehd.one/live/stream-84.php|webdelayalldig$$delay=1
@@ -1333,4 +1333,5 @@ https://daddylivehd.one/live/stream-398.php|webdelayalldig$$delay=1
 https://daddylivehd.one/live/stream-727.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,ZDF Info DE
 https://daddylivehd.one/live/stream-728.php|webdelayalldig$$delay=1
+
 

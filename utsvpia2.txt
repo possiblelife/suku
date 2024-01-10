@@ -5,8 +5,8 @@ https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea
 https://clipart.wpblink.com/sites/default/files/wallpaper/slang-clipart/143532/slang-clipart-appropriate-language-143532-1239542.jpg|webepg zoom=100 scroll=0,200
 #EXTINF:-1 group-title="Info"   tvg-logo="https://s.cafebazaar.ir/1/icons/ir.dexa.sms_512x512.png" , VIP AROUND THE WORLD
 https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea9-97ba-06f9792b8d70/pr_source.png/246x0w.jpg|webepg zoom=100 scroll=0,200
-#EXTINF:-1 ,ABC USA
-https://daddylivehd.one/live/stream-51.php|webdelayalldig$$delay=1
+#EXTINF:-1 ,ABC USA1
+https://daddylivehd.one/live/stream-51.php|webdelayfulldig$$delay=1
 #EXTINF:-1 ,A&E USA
 https://daddylivehd.one/live/stream-302.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,AMC USA

@@ -179,8 +179,8 @@ https://daddylivehd.one/live/stream-481.php|webdelayalldig$$delay=1
 https://daddylivehd.one/live/stream-484.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,BBC America (BBCA)
 https://daddylivehd.one/live/stream-305.php|webdelayalldig$$delay=1
-#EXTINF:-1 ,BET USA
-https://daddylivehd.one/live/stream-306.php|webdelayalldig$$delay=1
+#EXTINF:-1 ,BET USA.
+https://daddylivehd.one/live/stream-306.php|webdelayfulldig$$delay=1
 #EXTINF:-1 ,Bravo USA
 https://daddylivehd.one/live/stream-307.php|webdelayalldig$$delay=1
 #EXTINF:-1 ,BBC News Channel HD

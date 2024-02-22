@@ -6,17 +6,17 @@ https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/2b/a4/62/2ba4620b-8049-4ea
 https://pastebin.com/raw/SP6QZEAD|webepg zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.10. Click here to AUTO-UPDATE.
-https://www.mediafire.com/file/676vfk4r4cl6ph7/USA_TV_%2526_Radio_V3.10.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.10. Click here to Download From Browser.
-https://www.mediafire.com/file/676vfk4r4cl6ph7/USA_TV_%2526_Radio_V3.10.apk/file|newexternalapp
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/usatv310"
-https://www.mediafire.com/file/676vfk4r4cl6ph7/USA_TV_%2526_Radio_V3.10.apk/file|newexternalapp
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.27. Click here to AUTO-UPDATE.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.11. Click here to AUTO-UPDATE.
+https://www.mediafire.com/file/gfrl0h37nlga74q/USA_TV_%2526_Radio_V3.11.apk/file|externalupdate
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , VERSION V3.11. Click here to Download From Browser.
+https://www.mediafire.com/file/gfrl0h37nlga74q/USA_TV_%2526_Radio_V3.11.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/usatv311"
+https://www.mediafire.com/file/gfrl0h37nlga74q/USA_TV_%2526_Radio_V3.11.apk/file|newexternalapp
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.29. Click here to AUTO-UPDATE.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|externalupdate
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.27. Click here to Download From Browser.
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Plugin V4.29. Click here to Download From Browser.
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
-#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/ulti411"
+#EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/ultplug"
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 
 

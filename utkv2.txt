@@ -35,7 +35,7 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-1]
 https://livingabroad.tv/app/bbc-one|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-2]
-https://www.dlhd.online/tv/albaplayer/stream-356/?serv=2/|webdelaydeskfulldig$$delay=1
+https://www.dlhd.online/tv/albaplayer/stream-356/?serv=2/|webdeskfulldig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 FILMON [Option-3]
 https://www.filmon.com/tv/bbc-one|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-1]

@@ -35,19 +35,19 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-1]
 https://livingabroad.tv/app/bbc-one|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-2]
-https://daddylivehd.one/live/stream-356.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-356.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 FILMON [Option-3]
 https://www.filmon.com/tv/bbc-one|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-1]
 https://livingabroad.tv/app/bbc-two|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-2] 
-https://daddylivehd.one/live/stream-357.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-357.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 FILMON [Option-3]
 https://www.filmon.com/tv/bbc-two|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC3"  ,BBC 3 
-https://daddylivehd.one/live/stream-358.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-358.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-1]
-https://daddylivehd.one/live/stream-359.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-359.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 FILMON [Option-2]
 https://www.filmon.com/tv/cbeebiesbbc-four|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-3]
@@ -82,7 +82,7 @@ https://livingabroad.tv/app|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-0] 
 https://www.livenewsmag.com/bbc-world-news-live-stream/|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1] 
-https://daddylivehd.one/live/stream-349.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-349.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-2] 
 https://www.filmon.com/tv/bbc-news|exodig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3] 
@@ -92,17 +92,17 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-1]
 https://livingabroad.tv/app/itv1|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-2]
-https://daddylivehd.one/live/stream-350.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-350.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1]
-https://daddylivehd.one/live/stream-351.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-351.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-2]
 https://livingabroad.tv/app/itv2|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-1]
-https://daddylivehd.one/live/stream-352.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-352.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-2]
 https://livingabroad.tv/app/itv3|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-1] 
-https://daddylivehd.one/live/stream-353.php|webdelaydeskfulldig$$delay=1
+https://www.sportskeeda.vip/live/stream-353.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-2] 
 https://livingabroad.tv/app/itv4|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 FILMON [Option-1]

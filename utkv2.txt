@@ -32,99 +32,55 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
  
  
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-1]
-https://livingabroad.tv/app/bbc-one|weballdig
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-2]
 https://thedaddy.to/embed/stream-359.php|webdelaydeskfulldig$$delay=1
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 FILMON [Option-3]
-https://www.filmon.com/tv/bbc-one|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-1]
-https://livingabroad.tv/app/bbc-two|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-2] 
 https://thedaddy.to/embed/stream-357.php/|webdelaydeskfulldig$$delay=1
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 FILMON [Option-3]
-https://www.filmon.com/tv/bbc-two|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC3"  ,BBC 3 
 https://thedaddy.to/embed/stream-358.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-1]
 https://thedaddy.to/embed/stream-359.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 FILMON [Option-2]
 https://www.filmon.com/tv/cbeebiesbbc-four|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-3]
-https://livingabroad.tv/app/bbc-four|weballdig
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easycatchup.eu/img/CBBC.jpg" ,Cbbc FILMON [Option-1]
 https://www.filmon.com/tv/cbbc|exodig
-#EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easycatchup.eu/img/CBBC.jpg" ,Cbbc [Option-2]
-https://livingabroad.tv/app/cbbc|weballdig
 #EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easycatchup.eu/img/cbeebies.jpg" ,Cbeebies FILMON [Option-1] 
 https://www.filmon.com/tv/cbeebies|exodig
-#EXTINF:-1 group-title="Kids" tvg-id="CBeebies" tvg-logo="https://easycatchup.eu/img/cbeebies.jpg" ,Cbeebies [Option-2]
-https://livingabroad.tv/app/cbeebies|weballdig
-#EXTINF:-1  group-title="Entertainment" ,BBC Alba
-https://livingabroad.tv/app/bbc-alba|weballdig
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC 1 HD Wales" tvg-logo="https://easycatchup.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales FILMON
 https://www.filmon.com/tv/bbc-1-wales|exodig
 #EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easycatchup.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland FILMON [Option-1] 
 https://www.filmon.com/tv/bbc-1-scotland|exodig
-#EXTINF:-1 group-title="BBC Regional Variations" tvg-id="BBC1 Scotland" tvg-logo="https://easycatchup.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland [Option-2] 
-https://livingabroad.tv/app/bbc-one-scotland|weballdig
 #EXTINF:-1  group-title="BBC Regional Variations" tvg-id="BBC1 N Ireland" tvg-logo="https://easycatchup.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland FILMON
 https://www.filmon.com/tv/bbc-1-north-ireland|exodig
-#EXTINF:-1  group-title="BBC Regional Variations" ,BBC 1 Wales
-https://livingabroad.tv/app/bbc-one-wales|weballdig
-#EXTINF:-1  group-title="BBC Regional Variations" ,BBC 2 Wales
-https://livingabroad.tv/app/bbc-two-wales|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament FILMON [Option-1]
 https://www.filmon.com/tv/bbc-parliament|exodig
-#EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament [Option-2]
-https://livingabroad.tv/app|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1] 
 https://thedaddy.to/embed/stream-349.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-2] 
 https://www.filmon.com/tv/bbc-news|exodig
-#EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-3] 
-https://livingabroad.tv/app/bbc-news|weballdig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4] 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-1]
-https://livingabroad.tv/app/itv1|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-2]
 https://thedaddy.to/embed/stream-350.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1]
 https://thedaddy.to/embed/stream-351.php|webdelaydeskfulldig$$delay=1
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-2]
-https://livingabroad.tv/app/itv2|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-1]
 https://thedaddy.to/embed/stream-352.php|webdelaydeskfulldig$$delay=1
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-2]
-https://livingabroad.tv/app/itv3|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-1] 
 https://thedaddy.to/embed/stream-353.php|webdelaydeskfulldig$$delay=1
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-2] 
-https://livingabroad.tv/app/itv4|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 FILMON [Option-1]
 https://www.filmon.com/tv/channel-4|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 [Option-2]
-https://livingabroad.tv/app/channel-4|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/Channel-5-TV-Advertising-logo.jpg" ,Channel 5 FILMON [Option-1]
 https://www.filmon.com/tv/channel-5|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/Channel-5-TV-Advertising-logo.jpg" ,Channel 5 [Option-2]
-https://livingabroad.tv/app/channel-5|weballdig
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4 FILMON [Option-1]
 https://www.filmon.com/tv/film-4|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4 [Option-2]
-https://livingabroad.tv/app/film4|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="https://www.chillglobal.com/images/channels/e4-1432660370.jpg" ,E4 FILMON [Option-1]
 https://www.filmon.com/tv/e4|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="E4" tvg-logo="https://www.chillglobal.com/images/channels/e4-1432660370.jpg" ,E4 [Option-2]
-https://livingabroad.tv/app/e4|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Drama" tvg-logo="https://www.youview.com/wp-content/uploads/2016/06/12111755/drama-400x390.png" ,Drama FILMON [Option-1]
 https://www.filmon.com/tv/drama|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Drama" tvg-logo="https://www.youview.com/wp-content/uploads/2016/06/12111755/drama-400x390.png" ,Drama [Option-2]
-https://livingabroad.tv/app/drama|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="CBS Reality" tvg-logo="https://pbs.twimg.com/profile_images/854674078254411776/P_yzfBIn_400x400.jpg" ,CBS Reality  FILMON
 https://www.filmon.com/tv/cbs-reality|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="CBS Reality +1" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo191.png" ,CBS Reality +1  FILMON
@@ -139,20 +95,14 @@ https://www.filmon.com/tv/more4|exodig
 https://www.filmon.com/tv/yesterday|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star FILMON [Option-1]
 https://www.filmon.com/tv/5-star|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-2]
-https://livingabroad.tv/app/5star|weballdig
 #EXTINF:-1 group-title="Entertainment"  tvg-id="5USA" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa FILMON [Option-1]
 https://www.filmon.com/tv/5usa|exodig
-#EXTINF:-1 group-title="Entertainment"  tvg-id="5USA" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa [Option-2]
-https://livingabroad.tv/app/5usa|weballdig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Really" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/REALLY-logo-255x140.png?itok=RDqBz9mM" ,Really FILMON
 https://www.filmon.com/tv/really|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Pick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" ,Pick FILMON
 https://www.filmon.com/tv/pick-tv|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Challenge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Challenge_%28mini%29.png/revision/latest/scale-to-width-down/250?cb=20160627090540" ,Challenge FILMON [Option-1]
 https://www.filmon.com/tv/challenge|exodig
-#EXTINF:-1 group-title="Entertainment" tvg-id="Challenge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Challenge_%28mini%29.png/revision/latest/scale-to-width-down/250?cb=20160627090540" ,Challenge [Option-2]
-https://livingabroad.tv/app/challenge|weballdig
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera FILMON

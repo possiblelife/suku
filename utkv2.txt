@@ -34,13 +34,13 @@ https://www.tvguide.co.uk/|webepg zoom=100 scroll=0,1000
 
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC1" tvg-logo="https://mastermindpromotion.com/wp-content/uploads/2015/01/BBC-One-CI.png" ,BBC 1 [Option-2]
-https://thedaddy.to/embed/stream-359.php|webvideocast
+https://daddylive.mp/embed/stream-359.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_Two_%28box_variant%29.svg/220px-BBC_Two_%28box_variant%29.svg.png" ,BBC 2 [Option-2] 
-https://thedaddy.to/embed/stream-357.php/|webvideocast
+https://daddylive.mp/embed/stream-357.php/|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC3"  ,BBC 3 
-https://thedaddy.to/embed/stream-358.php|webvideocast
+https://daddylive.mp/embed/stream-358.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 [Option-1]
-https://thedaddy.to/embed/stream-359.php|webvideocast
+https://daddylive.mp/embed/stream-359.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC4" tvg-logo="https://www.thebookseller.com/sites/default/files/styles/large/public/field/image/2018/09/20/BBC%20Four.png?itok=iZkVAyma" ,BBC 4 FILMON [Option-2]
 https://www.filmon.com/tv/cbeebiesbbc-four|exodig
 #EXTINF:-1 group-title="Kids" tvg-id="CBBC" tvg-logo="https://easycatchup.eu/img/CBBC.jpg" ,Cbbc FILMON [Option-1]
@@ -56,7 +56,7 @@ https://www.filmon.com/tv/bbc-1-north-ireland|exodig
 #EXTINF:-1 group-title="News" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament FILMON [Option-1]
 https://www.filmon.com/tv/bbc-parliament|exodig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-1] 
-https://thedaddy.to/embed/stream-349.php|webvideocast
+https://daddylive.mp/embed/stream-349.php|webvideocast
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News FILMON [Option-2] 
 https://www.filmon.com/tv/bbc-news|exodig
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News [Option-4] 
@@ -64,13 +64,13 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="BBC News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_300.png" ,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="https://www.itvplc.com/~/media/Images/I/ITV-PLC/logo/itv-share-logo.jpg" ,ITV 1 [Option-2]
-https://thedaddy.to/embed/stream-350.php|webvideocast
+https://daddylive.mp/embed/stream-350.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV2" tvg-logo="https://pbs.twimg.com/profile_images/1347232933866856448/h0UU3eEm_400x400.jpg" ,ITV 2 [Option-1]
-https://thedaddy.to/embed/stream-351.php|webvideocast
+https://daddylive.mp/embed/stream-351.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-itv3-447.png" ,ITV 3 [Option-1]
-https://thedaddy.to/embed/stream-352.php|webvideocast
+https://daddylive.mp/embed/stream-352.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="ITV4" tvg-logo="https://pbs.twimg.com/profile_images/1156510933419732992/UwTfngNg_400x400.jpg" ,ITV 4 [Option-1] 
-https://thedaddy.to/embed/stream-353.php|webvideocast
+https://daddylive.mp/embed/stream-353.php|webvideocast
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 4" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/f/f8/Channel_4_1996.svg/revision/latest/scale-to-width-down/200?cb=20210204" ,Channel 4 FILMON [Option-1]
 https://www.filmon.com/tv/channel-4|exodig
 #EXTINF:-1 group-title="Entertainment" tvg-id="Channel 5" tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2020/04/Channel-5-TV-Advertising-logo.jpg" ,Channel 5 FILMON [Option-1]
@@ -156,52 +156,52 @@ https://www.youtube.com/watch?v=9Auq9mYxFEE
 #EXTINF:-1 group-title="Entertainment"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  ,World Fashion
 https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-38.php|webvideocast
+https://daddylive.mp/embed/stream-38.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 2][Advance MODE]
 https://sportsonline.to/channels/hd/hd1.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event [Server 3][Advance MODE]
 https://crichd.com.co/channels/sky-sports-main-event-live-streaming-hd-3|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-60.php|webvideocast
+https://daddylive.mp/embed/stream-60.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,Sky Sports F1 [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-f1-live-streaming-hd-2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" ,Sky Sports Cricket [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-65.php|webvideocast
+https://daddylive.mp/embed/stream-65.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" ,Sky Sports Cricket [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-cricket-live-streaming-hd-4|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports News" tvg-logo="https://www.laps.careers/wp-content/uploads/2018/05/sky-sports-news-ipad-app-logo1.jpg" ,Sky Sports News [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-366.php|webvideocast
+https://daddylive.mp/embed/stream-366.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-130.php|webvideocast
+https://daddylive.mp/embed/stream-130.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-premier-league-live-streaming-hd-2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Premier League" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" ,Sky Sports Premier League [Server 3][Advance MODE]
 https://sportsonline.to/channels/hd/hd3.php|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Football" tvg-logo="https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs" ,Sky Sports Football [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-35.php|webvideocast
+https://daddylive.mp/embed/stream-35.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Football" tvg-logo="https://lh3.googleusercontent.com/nwUWJoSto_JpXbFt5IBZ_1O0_E5do6Wt48VTZI588oKDypv25YHtd0Vx4udnHimtvTs" ,Sky Sports Football [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-football-live-streaming-hd-2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" ,Sky Sports Golf [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-70.php|webvideocast
+https://daddylive.mp/embed/stream-70.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" ,Sky Sports Golf [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-golf-live-streaming-hd-2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-36.php|webvideocast
+https://daddylive.mp/embed/stream-36.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Arena" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsarena_130x130.png" ,Sky Sports Arena [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-arena-live-streaming-hd-2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-554.php|webvideocast
+https://daddylive.mp/embed/stream-554.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-37.php|webvideocast
+https://daddylive.mp/embed/stream-37.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Action" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" ,Sky Sports Action [Server 2][Advance MODE]
 https://crichd-player.top/sky-sports-action-live-streaming-hd-15|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-449.php|webvideocast
+https://daddylive.mp/embed/stream-449.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="Sky Sports Mix" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Mix-2020-logo-250.png" ,Sky Sports Mix [Server 2][Advance MODE]
 https://crichd.com.co/channels/sky-sports-mix-live-streaming-hd-2|weballdig
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-31.php|webvideocast
+https://daddylive.mp/embed/stream-31.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 2" tvg-logo="https://mytv.afrik.live/uploads/fa0f60da30f133c1692cc4ea0adb6e12.png" ,BT Sport 2 [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-32.php|webvideocast
+https://daddylive.mp/embed/stream-32.php|webvideocast
 #EXTINF:-1 group-title="Sports" tvg-id="BT Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" ,BT Sport 3 [Server 1][Advance MODE]
-https://thedaddy.to/embed/stream-33.php|webvideocast
+https://daddylive.mp/embed/stream-33.php|webvideocast

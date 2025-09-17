@@ -12,1378 +12,1378 @@ http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|ne
 #EXTINF:-1 group-title="Info"   tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , OR USE "https://bit.ly/ultplug"
 http://www.mediafire.com/file/do44hj0t1epgnc9/IPTV_m3u_Loader_Plugin.apk/file|newexternalapp
 #EXTINF:-1 group-title="webvideocast",ABC USA (1)
-https://dlhd.dad/embed/stream-51.php/|webvideocast
+https://dlhd.dad/embed/stream-51.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",A&E USA (1)
-https://dlhd.dad/embed/stream-302.php/|webvideocast
+https://dlhd.dad/embed/stream-302.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",AMC USA (1)
-https://dlhd.dad/embed/stream-303.php/|webvideocast
+https://dlhd.dad/embed/stream-303.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Animal Planet (1)
-https://dlhd.dad/embed/stream-304.php/|webvideocast
+https://dlhd.dad/embed/stream-304.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ACC Network USA (1)
-https://dlhd.dad/embed/stream-666.php/|webvideocast
+https://dlhd.dad/embed/stream-666.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Astro SuperSport 1 (1)
-https://dlhd.dad/embed/stream-123.php/|webvideocast
+https://dlhd.dad/embed/stream-123.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Astro SuperSport 2 (1)
-https://dlhd.dad/embed/stream-124.php/|webvideocast
+https://dlhd.dad/embed/stream-124.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Astro SuperSport 3 (1)
-https://dlhd.dad/embed/stream-125.php/|webvideocast
+https://dlhd.dad/embed/stream-125.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Astro SuperSport 4 (1)
-https://dlhd.dad/embed/stream-126.php/|webvideocast
+https://dlhd.dad/embed/stream-126.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 1 Premium (1)
-https://dlhd.dad/embed/stream-134.php/|webvideocast
+https://dlhd.dad/embed/stream-134.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 2 Premium (1)
-https://dlhd.dad/embed/stream-135.php/|webvideocast
+https://dlhd.dad/embed/stream-135.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 3 Premium (1)
-https://dlhd.dad/embed/stream-139.php/|webvideocast
+https://dlhd.dad/embed/stream-139.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 1 Serbia (1)
-https://dlhd.dad/embed/stream-429.php/|webvideocast
+https://dlhd.dad/embed/stream-429.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 2 Serbia (1)
-https://dlhd.dad/embed/stream-430.php/|webvideocast
+https://dlhd.dad/embed/stream-430.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 3 Serbia (1)
-https://dlhd.dad/embed/stream-431.php/|webvideocast
+https://dlhd.dad/embed/stream-431.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 4 Serbia (1)
-https://dlhd.dad/embed/stream-581.php/|webvideocast
+https://dlhd.dad/embed/stream-581.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 1 Croatia (1)
-https://dlhd.dad/embed/stream-432.php/|webvideocast
+https://dlhd.dad/embed/stream-432.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 2 Croatia (1)
-https://dlhd.dad/embed/stream-433.php/|webvideocast
+https://dlhd.dad/embed/stream-433.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 3 Croatia (1)
-https://dlhd.dad/embed/stream-434.php/|webvideocast
+https://dlhd.dad/embed/stream-434.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 4 Croatia (1)
-https://dlhd.dad/embed/stream-580.php/|webvideocast
+https://dlhd.dad/embed/stream-580.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Alkass One (1)
-https://dlhd.dad/embed/stream-781.php/|webvideocast
+https://dlhd.dad/embed/stream-781.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Alkass Two (1)
-https://dlhd.dad/embed/stream-782.php/|webvideocast
+https://dlhd.dad/embed/stream-782.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Alkass Three (1)
-https://dlhd.dad/embed/stream-783.php/|webvideocast
+https://dlhd.dad/embed/stream-783.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Alkass Four (1)
-https://dlhd.dad/embed/stream-784.php/|webvideocast
+https://dlhd.dad/embed/stream-784.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ABS-CBN (1)
-https://dlhd.dad/embed/stream-785.php/|webvideocast
+https://dlhd.dad/embed/stream-785.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arena Sport 1 BiH (1)
-https://dlhd.dad/embed/stream-579.php/|webvideocast
+https://dlhd.dad/embed/stream-579.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Abu Dhabi Sports 1 UAE (1)
-https://dlhd.dad/embed/stream-600.php/|webvideocast
+https://dlhd.dad/embed/stream-600.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Abu Dhabi Sports 2 UAE (1)
-https://dlhd.dad/embed/stream-601.php/|webvideocast
+https://dlhd.dad/embed/stream-601.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Abu Dhabi Sports 1 Premium (1)
-https://dlhd.dad/embed/stream-609.php/|webvideocast
+https://dlhd.dad/embed/stream-609.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Abu Dhabi Sports 2 Premium (1)
-https://dlhd.dad/embed/stream-610.php/|webvideocast
+https://dlhd.dad/embed/stream-610.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Astro Cricket (1)
-https://dlhd.dad/embed/stream-370.php/|webvideocast
+https://dlhd.dad/embed/stream-370.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Antena 3 Spain (1)
-https://dlhd.dad/embed/stream-531.php/|webvideocast
+https://dlhd.dad/embed/stream-531.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ACC Network USA (1)
-https://dlhd.dad/embed/stream-664.php/|webvideocast
+https://dlhd.dad/embed/stream-664.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Adult Swim (1)
-https://dlhd.dad/embed/stream-295.php/|webvideocast
+https://dlhd.dad/embed/stream-295.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",AXN Movies Portugal (1)
-https://dlhd.dad/embed/stream-717.php/|webvideocast
+https://dlhd.dad/embed/stream-717.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Arte DE (1)
-https://dlhd.dad/embed/stream-725.php/|webvideocast
+https://dlhd.dad/embed/stream-725.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",AXS TV USA (1)
-https://dlhd.dad/embed/stream-742.php/|webvideocast
+https://dlhd.dad/embed/stream-742.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ABCNY USA (1)
-https://dlhd.dad/embed/stream-766.php/|webvideocast
+https://dlhd.dad/embed/stream-766.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA English 1 (1)
-https://dlhd.dad/embed/stream-61.php/|webvideocast
+https://dlhd.dad/embed/stream-61.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA English 2 (1)
-https://dlhd.dad/embed/stream-90.php/|webvideocast
+https://dlhd.dad/embed/stream-90.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA English 3 (1)
-https://dlhd.dad/embed/stream-46.php/|webvideocast
+https://dlhd.dad/embed/stream-46.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 1 (1)
-https://dlhd.dad/embed/stream-91.php/|webvideocast
+https://dlhd.dad/embed/stream-91.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 2 (1)
-https://dlhd.dad/embed/stream-92.php/|webvideocast
+https://dlhd.dad/embed/stream-92.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 3 (1)
-https://dlhd.dad/embed/stream-93.php/|webvideocast
+https://dlhd.dad/embed/stream-93.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 4 (1)
-https://dlhd.dad/embed/stream-94.php/|webvideocast
+https://dlhd.dad/embed/stream-94.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 5 (1)
-https://dlhd.dad/embed/stream-95.php/|webvideocast
+https://dlhd.dad/embed/stream-95.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 6 (1)
-https://dlhd.dad/embed/stream-96.php/|webvideocast
+https://dlhd.dad/embed/stream-96.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA 7 (1)
-https://dlhd.dad/embed/stream-97.php/|webvideocast
+https://dlhd.dad/embed/stream-97.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA Premium 1 (1)
-https://dlhd.dad/embed/stream-98.php/|webvideocast
+https://dlhd.dad/embed/stream-98.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA Premium 2 (1)
-https://dlhd.dad/embed/stream-99.php/|webvideocast
+https://dlhd.dad/embed/stream-99.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MENA Premium 3 (1)
-https://dlhd.dad/embed/stream-100.php/|webvideocast
+https://dlhd.dad/embed/stream-100.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 4 France (1)
-https://dlhd.dad/embed/stream-494.php/|webvideocast
+https://dlhd.dad/embed/stream-494.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 5 France (1)
-https://dlhd.dad/embed/stream-495.php/|webvideocast
+https://dlhd.dad/embed/stream-495.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 6 France (1)
-https://dlhd.dad/embed/stream-496.php/|webvideocast
+https://dlhd.dad/embed/stream-496.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 7 France (1)
-https://dlhd.dad/embed/stream-497.php/|webvideocast
+https://dlhd.dad/embed/stream-497.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 8 France (1)
-https://dlhd.dad/embed/stream-498.php/|webvideocast
+https://dlhd.dad/embed/stream-498.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 9 France (1)
-https://dlhd.dad/embed/stream-499.php/|webvideocast
+https://dlhd.dad/embed/stream-499.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN Sports MAX 10 France (1)
-https://dlhd.dad/embed/stream-500.php/|webvideocast
+https://dlhd.dad/embed/stream-500.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 1 France (1)
-https://dlhd.dad/embed/stream-116.php/|webvideocast
+https://dlhd.dad/embed/stream-116.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 2 France (1)
-https://dlhd.dad/embed/stream-117.php/|webvideocast
+https://dlhd.dad/embed/stream-117.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 3 France (1)
-https://dlhd.dad/embed/stream-118.php/|webvideocast
+https://dlhd.dad/embed/stream-118.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 1 Turkey (1)
-https://dlhd.dad/embed/stream-62.php/|webvideocast
+https://dlhd.dad/embed/stream-62.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 2 Turkey (1)
-https://dlhd.dad/embed/stream-63.php/|webvideocast
+https://dlhd.dad/embed/stream-63.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 3 Turkey (1)
-https://dlhd.dad/embed/stream-64.php/|webvideocast
+https://dlhd.dad/embed/stream-64.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS 4 Turkey (1)
-https://dlhd.dad/embed/stream-67.php/|webvideocast
+https://dlhd.dad/embed/stream-67.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BeIN Sports HD Qatar (1)
-https://dlhd.dad/embed/stream-578.php/|webvideocast
+https://dlhd.dad/embed/stream-578.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BeIN SPORTS USA (1)
-https://dlhd.dad/embed/stream-425.php/|webvideocast
+https://dlhd.dad/embed/stream-425.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS en Espa単ol (1)
-https://dlhd.dad/embed/stream-372.php/|webvideocast
+https://dlhd.dad/embed/stream-372.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS Australia 1 (1)
-https://dlhd.dad/embed/stream-491.php/|webvideocast
+https://dlhd.dad/embed/stream-491.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS Australia 2 (1)
-https://dlhd.dad/embed/stream-492.php/|webvideocast
+https://dlhd.dad/embed/stream-492.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",beIN SPORTS Australia 3 (1)
-https://dlhd.dad/embed/stream-493.php/|webvideocast
+https://dlhd.dad/embed/stream-493.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Barca TV Spain (1)
-https://dlhd.dad/embed/stream-522.php/|webvideocast
+https://dlhd.dad/embed/stream-522.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Benfica TV PT (1)
-https://dlhd.dad/embed/stream-380.php/|webvideocast
+https://dlhd.dad/embed/stream-380.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Boomerang (1)
-https://dlhd.dad/embed/stream-648.php/|webvideocast
+https://dlhd.dad/embed/stream-648.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BNT 1 Bulgaria (1)
-https://dlhd.dad/embed/stream-476.php/|webvideocast
+https://dlhd.dad/embed/stream-476.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BNT 2 Bulgaria (1)
-https://dlhd.dad/embed/stream-477.php/|webvideocast
+https://dlhd.dad/embed/stream-477.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BNT 3 Bulgaria (1)
-https://dlhd.dad/embed/stream-478.php/|webvideocast
+https://dlhd.dad/embed/stream-478.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BR Fernsehen DE (1)
-https://dlhd.dad/embed/stream-737.php/|webvideocast
+https://dlhd.dad/embed/stream-737.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",bTV Bulgaria (1)
-https://dlhd.dad/embed/stream-479.php/|webvideocast
+https://dlhd.dad/embed/stream-479.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",bTV Action Bulgaria (1)
-https://dlhd.dad/embed/stream-481.php/|webvideocast
+https://dlhd.dad/embed/stream-481.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",bTV Lady Bulgaria (1)
-https://dlhd.dad/embed/stream-484.php/|webvideocast
+https://dlhd.dad/embed/stream-484.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC America (BBCA) (1)
-https://dlhd.dad/embed/stream-305.php/|webvideocast
+https://dlhd.dad/embed/stream-305.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BET USA (1)
-https://dlhd.dad/embed/stream-306.php/|webvideocast
+https://dlhd.dad/embed/stream-306.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Bravo USA (1)
-https://dlhd.dad/embed/stream-307.php/|webvideocast
+https://dlhd.dad/embed/stream-307.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC News Channel HD (1)
-https://dlhd.dad/embed/stream-349.php/|webvideocast
+https://dlhd.dad/embed/stream-349.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC One UK (1)
-https://dlhd.dad/embed/stream-356.php/|webvideocast
+https://dlhd.dad/embed/stream-356.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC Two UK (1)
-https://dlhd.dad/embed/stream-357.php/|webvideocast
+https://dlhd.dad/embed/stream-357.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC Three UK (1)
-https://dlhd.dad/embed/stream-358.php/|webvideocast
+https://dlhd.dad/embed/stream-358.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC Four UK (1)
-https://dlhd.dad/embed/stream-359.php/|webvideocast
+https://dlhd.dad/embed/stream-359.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BIG TEN Network (BTN USA) (1)
-https://dlhd.dad/embed/stream-397.php/|webvideocast
+https://dlhd.dad/embed/stream-397.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cuatro Spain (1)
-https://dlhd.dad/embed/stream-535.php/|webvideocast
+https://dlhd.dad/embed/stream-535.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 4 UK (1)
-https://dlhd.dad/embed/stream-354.php/|webvideocast
+https://dlhd.dad/embed/stream-354.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 5 UK (1)
-https://dlhd.dad/embed/stream-355.php/|webvideocast
+https://dlhd.dad/embed/stream-355.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CBS Sports Network (CBSSN) (1)
-https://dlhd.dad/embed/stream-308.php/|webvideocast
+https://dlhd.dad/embed/stream-308.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ France (1)
-https://dlhd.dad/embed/stream-121.php/|webvideocast
+https://dlhd.dad/embed/stream-121.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport France (1)
-https://dlhd.dad/embed/stream-122.php/|webvideocast
+https://dlhd.dad/embed/stream-122.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Foot France (1)
-https://dlhd.dad/embed/stream-463.php/|webvideocast
+https://dlhd.dad/embed/stream-463.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport360 (1)
-https://dlhd.dad/embed/stream-464.php/|webvideocast
+https://dlhd.dad/embed/stream-464.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal 11 Portugal (1)
-https://dlhd.dad/embed/stream-540.php/|webvideocast
+https://dlhd.dad/embed/stream-540.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport Poland (1)
-https://dlhd.dad/embed/stream-48.php/|webvideocast
+https://dlhd.dad/embed/stream-48.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport 2 Poland (1)
-https://dlhd.dad/embed/stream-73.php/|webvideocast
+https://dlhd.dad/embed/stream-73.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CANAL+ SPORT 5 Poland (1)
-https://dlhd.dad/embed/stream-75.php/|webvideocast
+https://dlhd.dad/embed/stream-75.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Premium Poland (1)
-https://dlhd.dad/embed/stream-566.php/|webvideocast
+https://dlhd.dad/embed/stream-566.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Family Poland (1)
-https://dlhd.dad/embed/stream-567.php/|webvideocast
+https://dlhd.dad/embed/stream-567.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Seriale Poland (1)
-https://dlhd.dad/embed/stream-570.php/|webvideocast
+https://dlhd.dad/embed/stream-570.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport 1 Afrique (1)
-https://dlhd.dad/embed/stream-486.php/|webvideocast
+https://dlhd.dad/embed/stream-486.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport 2 Afrique (1)
-https://dlhd.dad/embed/stream-487.php/|webvideocast
+https://dlhd.dad/embed/stream-487.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport 3 Afrique (1)
-https://dlhd.dad/embed/stream-488.php/|webvideocast
+https://dlhd.dad/embed/stream-488.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport 4 Afrique (1)
-https://dlhd.dad/embed/stream-489.php/|webvideocast
+https://dlhd.dad/embed/stream-489.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Canal+ Sport 5 Afrique (1)
-https://dlhd.dad/embed/stream-490.php/|webvideocast
+https://dlhd.dad/embed/stream-490.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CANAL9 Denmark (1)
-https://dlhd.dad/embed/stream-805.php/|webvideocast
+https://dlhd.dad/embed/stream-805.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Combate Brasil (1)
-https://dlhd.dad/embed/stream-89.php/|webvideocast
+https://dlhd.dad/embed/stream-89.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",C More Football Sweden (1)
-https://dlhd.dad/embed/stream-747.php/|webvideocast
+https://dlhd.dad/embed/stream-747.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 1 HD (1)
-https://dlhd.dad/embed/stream-622.php/|webvideocast
+https://dlhd.dad/embed/stream-622.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 2 HD (1)
-https://dlhd.dad/embed/stream-623.php/|webvideocast
+https://dlhd.dad/embed/stream-623.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 3 HD (1)
-https://dlhd.dad/embed/stream-624.php/|webvideocast
+https://dlhd.dad/embed/stream-624.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 4 HD (1)
-https://dlhd.dad/embed/stream-625.php/|webvideocast
+https://dlhd.dad/embed/stream-625.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 5 HD (1)
-https://dlhd.dad/embed/stream-626.php/|webvideocast
+https://dlhd.dad/embed/stream-626.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 6 HD (1)
-https://dlhd.dad/embed/stream-627.php/|webvideocast
+https://dlhd.dad/embed/stream-627.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 7 HD (1)
-https://dlhd.dad/embed/stream-628.php/|webvideocast
+https://dlhd.dad/embed/stream-628.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 8 HD (1)
-https://dlhd.dad/embed/stream-629.php/|webvideocast
+https://dlhd.dad/embed/stream-629.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cosmote Sport 9 HD (1)
-https://dlhd.dad/embed/stream-630.php/|webvideocast
+https://dlhd.dad/embed/stream-630.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 9 Israel (1)
-https://dlhd.dad/embed/stream-546.php/|webvideocast
+https://dlhd.dad/embed/stream-546.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 10 Israe (1)
-https://dlhd.dad/embed/stream-547.php/|webvideocast
+https://dlhd.dad/embed/stream-547.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 11 Israel (1)
-https://dlhd.dad/embed/stream-548.php/|webvideocast
+https://dlhd.dad/embed/stream-548.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 12 Israel (1)
-https://dlhd.dad/embed/stream-549.php/|webvideocast
+https://dlhd.dad/embed/stream-549.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 13 Israel (1)
-https://dlhd.dad/embed/stream-551.php/|webvideocast
+https://dlhd.dad/embed/stream-551.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Channel 14 Israel (1)
-https://dlhd.dad/embed/stream-552.php/|webvideocast
+https://dlhd.dad/embed/stream-552.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",C More Stars Sweden (1)
-https://dlhd.dad/embed/stream-8111.php/|webvideocast
+https://dlhd.dad/embed/stream-8111.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",C More First Sweden (1)
-https://dlhd.dad/embed/stream-812.php/|webvideocast
+https://dlhd.dad/embed/stream-812.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",C More Hits Sweden (1)
-https://dlhd.dad/embed/stream-813.php/|webvideocast
+https://dlhd.dad/embed/stream-813.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",C More Series Sweden (1)
-https://dlhd.dad/embed/stream-814.php/|webvideocast
+https://dlhd.dad/embed/stream-814.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",COZI TV USA (1)
-https://dlhd.dad/embed/stream-748.php/|webvideocast
+https://dlhd.dad/embed/stream-748.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CMT USA (1)
-https://dlhd.dad/embed/stream-647.php/|webvideocast
+https://dlhd.dad/embed/stream-647.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CBS USA (1)
-https://dlhd.dad/embed/stream-52.php/|webvideocast
+https://dlhd.dad/embed/stream-52.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CW USA (1)
-https://dlhd.dad/embed/stream-300.php/|webvideocast
+https://dlhd.dad/embed/stream-300.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CNBC USA (1)
-https://dlhd.dad/embed/stream-309.php/|webvideocast
+https://dlhd.dad/embed/stream-309.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Comedy Central (1)
-https://dlhd.dad/embed/stream-310.php/|webvideocast
+https://dlhd.dad/embed/stream-310.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cartoon Network (1)
-https://dlhd.dad/embed/stream-339.php/|webvideocast
+https://dlhd.dad/embed/stream-339.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CNN USA (1)
-https://dlhd.dad/embed/stream-345.php/|webvideocast
+https://dlhd.dad/embed/stream-345.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cinemax USA (1)
-https://dlhd.dad/embed/stream-374.php/|webvideocast
+https://dlhd.dad/embed/stream-374.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CTV Canada (1)
-https://dlhd.dad/embed/stream-602.php/|webvideocast
+https://dlhd.dad/embed/stream-602.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CTV 2 Canada (1)
-https://dlhd.dad/embed/stream-838.php/|webvideocast
+https://dlhd.dad/embed/stream-838.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Crime+ Investigation USA (1)
-https://dlhd.dad/embed/stream-669.php/|webvideocast
+https://dlhd.dad/embed/stream-669.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Comet USA (1)
-https://dlhd.dad/embed/stream-696.php/|webvideocast
+https://dlhd.dad/embed/stream-696.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cooking Channel USA (1)
-https://dlhd.dad/embed/stream-697.php/|webvideocast
+https://dlhd.dad/embed/stream-697.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Cleo TV (1)
-https://dlhd.dad/embed/stream-715.php/|webvideocast
+https://dlhd.dad/embed/stream-715.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",C SPAN 1 (1)
-https://dlhd.dad/embed/stream-750.php/|webvideocast
+https://dlhd.dad/embed/stream-750.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CBSNY USA (1)
-https://dlhd.dad/embed/stream-767.php/|webvideocast
+https://dlhd.dad/embed/stream-767.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Citytv (1)
-https://dlhd.dad/embed/stream-831.php/|webvideocast
+https://dlhd.dad/embed/stream-831.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CBC CA (1)
-https://dlhd.dad/embed/stream-832.php/|webvideocast
+https://dlhd.dad/embed/stream-832.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN 1 Bar DE (1)
-https://dlhd.dad/embed/stream-426.php/|webvideocast
+https://dlhd.dad/embed/stream-426.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN 2 Bar DE (1)
-https://dlhd.dad/embed/stream-427.php/|webvideocast
+https://dlhd.dad/embed/stream-427.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN 1 Spain (1)
-https://dlhd.dad/embed/stream-445.php/|webvideocast
+https://dlhd.dad/embed/stream-445.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN 2 Spain (1)
-https://dlhd.dad/embed/stream-446.php/|webvideocast
+https://dlhd.dad/embed/stream-446.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN 3 Spain (1)
-https://dlhd.dad/embed/stream-447.php/|webvideocast
+https://dlhd.dad/embed/stream-447.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN 4 Spain (1)
-https://dlhd.dad/embed/stream-448.php/|webvideocast
+https://dlhd.dad/embed/stream-448.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN F1 ES (1)
-https://dlhd.dad/embed/stream-537.php/|webvideocast
+https://dlhd.dad/embed/stream-537.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN LaLiga (1)
-https://dlhd.dad/embed/stream-538.php/|webvideocast
+https://dlhd.dad/embed/stream-538.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DAZN LaLiga 2 (1)
-https://dlhd.dad/embed/stream-43.php/|webvideocast
+https://dlhd.dad/embed/stream-43.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DR1 Denmark (1)
-https://dlhd.dad/embed/stream-801.php/|webvideocast
+https://dlhd.dad/embed/stream-801.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DR2 Denmark (1)
-https://dlhd.dad/embed/stream-802.php/|webvideocast
+https://dlhd.dad/embed/stream-802.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Digi Sport 1 Romania (1)
-https://dlhd.dad/embed/stream-400.php/|webvideocast
+https://dlhd.dad/embed/stream-400.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Digi Sport 2 Romania (1)
-https://dlhd.dad/embed/stream-401.php/|webvideocast
+https://dlhd.dad/embed/stream-401.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Digi Sport 3 Romania (1)
-https://dlhd.dad/embed/stream-402.php/|webvideocast
+https://dlhd.dad/embed/stream-402.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Digi Sport 4 Romania (1)
-https://dlhd.dad/embed/stream-403.php/|webvideocast
+https://dlhd.dad/embed/stream-403.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Diema Sport Bulgaria (1)
-https://dlhd.dad/embed/stream-465.php/|webvideocast
+https://dlhd.dad/embed/stream-465.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Diema Sport 2 Bulgaria (1)
-https://dlhd.dad/embed/stream-466.php/|webvideocast
+https://dlhd.dad/embed/stream-466.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Diema Sport 3 Bulgaria (1)
-https://dlhd.dad/embed/stream-467.php/|webvideocast
+https://dlhd.dad/embed/stream-467.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Diema Bulgaria (1)
-https://dlhd.dad/embed/stream-482.php/|webvideocast
+https://dlhd.dad/embed/stream-482.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Diema Family Bulgaria (1)
-https://dlhd.dad/embed/stream-485.php/|webvideocast
+https://dlhd.dad/embed/stream-485.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Dubai Sports 1 UAE (1)
-https://dlhd.dad/embed/stream-604.php/|webvideocast
+https://dlhd.dad/embed/stream-604.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Dubai Sports 2 UAE (1)
-https://dlhd.dad/embed/stream-605.php/|webvideocast
+https://dlhd.dad/embed/stream-605.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Dubai Sports 3 UAE (1)
-https://dlhd.dad/embed/stream-606.php/|webvideocast
+https://dlhd.dad/embed/stream-606.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Dubai Racing 1 UAE (1)
-https://dlhd.dad/embed/stream-607.php/|webvideocast
+https://dlhd.dad/embed/stream-607.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Dubai Racing 2 UAE (1)
-https://dlhd.dad/embed/stream-608.php/|webvideocast
+https://dlhd.dad/embed/stream-608.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DSTV Mzansi Magic (1)
-https://dlhd.dad/embed/stream-786.php/|webvideocast
+https://dlhd.dad/embed/stream-786.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DSTV M-Net (1)
-https://dlhd.dad/embed/stream-827.php/|webvideocast
+https://dlhd.dad/embed/stream-827.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",DSTV kykNET & kie (1)
-https://dlhd.dad/embed/stream-828.php/|webvideocast
+https://dlhd.dad/embed/stream-828.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Discovery Life Channel (1)
-https://dlhd.dad/embed/stream-311.php/|webvideocast
+https://dlhd.dad/embed/stream-311.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Disney Channel (1)
-https://dlhd.dad/embed/stream-312.php/|webvideocast
+https://dlhd.dad/embed/stream-312.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Discovery Channel (1)
-https://dlhd.dad/embed/stream-313.php/|webvideocast
+https://dlhd.dad/embed/stream-313.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Discovery Family (1)
-https://dlhd.dad/embed/stream-657.php/|webvideocast
+https://dlhd.dad/embed/stream-657.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Disney XD (1)
-https://dlhd.dad/embed/stream-314.php/|webvideocast
+https://dlhd.dad/embed/stream-314.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Destination America (1)
-https://dlhd.dad/embed/stream-651.php/|webvideocast
+https://dlhd.dad/embed/stream-651.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Disney JR (1)
-https://dlhd.dad/embed/stream-652.php/|webvideocast
+https://dlhd.dad/embed/stream-652.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Dave (1)
-https://dlhd.dad/embed/stream-348.php/|webvideocast
+https://dlhd.dad/embed/stream-348.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN USA (1)
-https://dlhd.dad/embed/stream-44.php/|webvideocast
+https://dlhd.dad/embed/stream-44.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN2 USA (1)
-https://dlhd.dad/embed/stream-45.php/|webvideocast
+https://dlhd.dad/embed/stream-45.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPNU USA (1)
-https://dlhd.dad/embed/stream-316.php/|webvideocast
+https://dlhd.dad/embed/stream-316.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN 1 NL (1)
-https://dlhd.dad/embed/stream-379.php/|webvideocast
+https://dlhd.dad/embed/stream-379.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN 2 NL (1)
-https://dlhd.dad/embed/stream-386.php/|webvideocast
+https://dlhd.dad/embed/stream-386.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 1 Poland (1)
-https://dlhd.dad/embed/stream-71.php/|webvideocast
+https://dlhd.dad/embed/stream-71.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 2 Poland (1)
-https://dlhd.dad/embed/stream-72.php/|webvideocast
+https://dlhd.dad/embed/stream-72.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 3 Poland (1)
-https://dlhd.dad/embed/stream-428.php/|webvideocast
+https://dlhd.dad/embed/stream-428.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 1 Portugal (1)
-https://dlhd.dad/embed/stream-455.php/|webvideocast
+https://dlhd.dad/embed/stream-455.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 2 Portugal (1)
-https://dlhd.dad/embed/stream-456.php/|webvideocast
+https://dlhd.dad/embed/stream-456.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 3 Portugal (1)
-https://dlhd.dad/embed/stream-457.php/|webvideocast
+https://dlhd.dad/embed/stream-457.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 4 Portugal (1)
-https://dlhd.dad/embed/stream-458.php/|webvideocast
+https://dlhd.dad/embed/stream-458.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eleven Sports 5 Portugal (1)
-https://dlhd.dad/embed/stream-459.php/|webvideocast
+https://dlhd.dad/embed/stream-459.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 1 UK (1)
-https://dlhd.dad/embed/stream-41.php/|webvideocast
+https://dlhd.dad/embed/stream-41.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 2 UK (1)
-https://dlhd.dad/embed/stream-42.php/|webvideocast
+https://dlhd.dad/embed/stream-42.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 1 Poland (1)
-https://dlhd.dad/embed/stream-57.php/|webvideocast
+https://dlhd.dad/embed/stream-57.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 2 Poland (1)
-https://dlhd.dad/embed/stream-58.php/|webvideocast
+https://dlhd.dad/embed/stream-58.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 1 Spain (1)
-https://dlhd.dad/embed/stream-524.php/|webvideocast
+https://dlhd.dad/embed/stream-524.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 2 Spain (1)
-https://dlhd.dad/embed/stream-525.php/|webvideocast
+https://dlhd.dad/embed/stream-525.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 1 Italy (1)
-https://dlhd.dad/embed/stream-878.php/|webvideocast
+https://dlhd.dad/embed/stream-878.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",EuroSport 2 Italy (1)
-https://dlhd.dad/embed/stream-879.php/|webvideocast
+https://dlhd.dad/embed/stream-879.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eurosport 1 Bulgaria (1)
-https://dlhd.dad/embed/stream-469.php/|webvideocast
+https://dlhd.dad/embed/stream-469.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Eurosport 2 Bulgaria (1)
-https://dlhd.dad/embed/stream-470.php/|webvideocast
+https://dlhd.dad/embed/stream-470.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN Premium Argentina (1)
-https://dlhd.dad/embed/stream-387.php/|webvideocast
+https://dlhd.dad/embed/stream-387.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN Brasil (1)
-https://dlhd.dad/embed/stream-81.php/|webvideocast
+https://dlhd.dad/embed/stream-81.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN2 Brasil (1)
-https://dlhd.dad/embed/stream-82.php/|webvideocast
+https://dlhd.dad/embed/stream-82.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN3 Brasil (1)
-https://dlhd.dad/embed/stream-83.php/|webvideocast
+https://dlhd.dad/embed/stream-83.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN4 Brasil (1)
-https://dlhd.dad/embed/stream-85.php/|webvideocast
+https://dlhd.dad/embed/stream-85.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN SUR (1)
-https://dlhd.dad/embed/stream-149.php/|webvideocast
+https://dlhd.dad/embed/stream-149.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN2 SUR (1)
-https://dlhd.dad/embed/stream-150.php/|webvideocast
+https://dlhd.dad/embed/stream-150.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPN Deportes (1)
-https://dlhd.dad/embed/stream-375.php/|webvideocast
+https://dlhd.dad/embed/stream-375.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ESPNews (1)
-https://dlhd.dad/embed/stream-288.php/|webvideocast
+https://dlhd.dad/embed/stream-288.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",E! Entertainment Television (1)
-https://dlhd.dad/embed/stream-315.php/|webvideocast
+https://dlhd.dad/embed/stream-315.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",E4 Channel (1)
-https://dlhd.dad/embed/stream-363.php/|webvideocast
+https://dlhd.dad/embed/stream-363.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Sports 1 USA (1)
-https://dlhd.dad/embed/stream-39.php/|webvideocast
+https://dlhd.dad/embed/stream-39.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Sports 2 USA (1)
-https://dlhd.dad/embed/stream-758.php/|webvideocast
+https://dlhd.dad/embed/stream-758.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Soccer Plus (1)
-https://dlhd.dad/embed/stream-756.php/|webvideocast
+https://dlhd.dad/embed/stream-756.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Cricket (1)
-https://dlhd.dad/embed/stream-369.php/|webvideocast
+https://dlhd.dad/embed/stream-369.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Deportes USA (1)
-https://dlhd.dad/embed/stream-643.php/|webvideocast
+https://dlhd.dad/embed/stream-643.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Sports 502 AU (1)
-https://dlhd.dad/embed/stream-820.php/|webvideocast
+https://dlhd.dad/embed/stream-820.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Sports 503 AU (1)
-https://dlhd.dad/embed/stream-821.php/|webvideocast
+https://dlhd.dad/embed/stream-821.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Sports 504 AU (1)
-https://dlhd.dad/embed/stream-822.php/|webvideocast
+https://dlhd.dad/embed/stream-822.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Sports 505 AU (1)
-https://dlhd.dad/embed/stream-823.php/|webvideocast
+https://dlhd.dad/embed/stream-823.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Sports 506 AU (1)
-https://dlhd.dad/embed/stream-824.php/|webvideocast
+https://dlhd.dad/embed/stream-824.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX Sports 507 AU (1)
-https://dlhd.dad/embed/stream-825.php/|webvideocast
+https://dlhd.dad/embed/stream-825.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Sports Argentina (1)
-https://dlhd.dad/embed/stream-787.php/|webvideocast
+https://dlhd.dad/embed/stream-787.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Sports 2 Argentina (1)
-https://dlhd.dad/embed/stream-788.php/|webvideocast
+https://dlhd.dad/embed/stream-788.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Sports 3 Argentina (1)
-https://dlhd.dad/embed/stream-789.php/|webvideocast
+https://dlhd.dad/embed/stream-789.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Sports Premium MX (1)
-https://dlhd.dad/embed/stream-830.php/|webvideocast
+https://dlhd.dad/embed/stream-830.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FilmBox Premium Poland (1)
-https://dlhd.dad/embed/stream-568.php/|webvideocast
+https://dlhd.dad/embed/stream-568.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fight Network (1)
-https://dlhd.dad/embed/stream-757.php/|webvideocast
+https://dlhd.dad/embed/stream-757.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Business (1)
-https://dlhd.dad/embed/stream-297.php/|webvideocast
+https://dlhd.dad/embed/stream-297.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX HD Bulgaria (1)
-https://dlhd.dad/embed/stream-483.php/|webvideocast
+https://dlhd.dad/embed/stream-483.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOX USA (1)
-https://dlhd.dad/embed/stream-54.php/|webvideocast
+https://dlhd.dad/embed/stream-54.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FX USA (1)
-https://dlhd.dad/embed/stream-317.php/|webvideocast
+https://dlhd.dad/embed/stream-317.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FXX USA (1)
-https://dlhd.dad/embed/stream-298.php/|webvideocast
+https://dlhd.dad/embed/stream-298.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Freeform (1)
-https://dlhd.dad/embed/stream-301.php/|webvideocast
+https://dlhd.dad/embed/stream-301.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox News (1)
-https://dlhd.dad/embed/stream-347.php/|webvideocast
+https://dlhd.dad/embed/stream-347.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FX Movie Channel (1)
-https://dlhd.dad/embed/stream-381.php/|webvideocast
+https://dlhd.dad/embed/stream-381.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FYI (1)
-https://dlhd.dad/embed/stream-665.php/|webvideocast
+https://dlhd.dad/embed/stream-665.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Film4 UK (1)
-https://dlhd.dad/embed/stream-688.php/|webvideocast
+https://dlhd.dad/embed/stream-688.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fashion TV (1)
-https://dlhd.dad/embed/stream-744.php/|webvideocast
+https://dlhd.dad/embed/stream-744.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FETV - Family Entertainment Television (1)
-https://dlhd.dad/embed/stream-751.php/|webvideocast
+https://dlhd.dad/embed/stream-751.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",FOXNY USA (1)
-https://dlhd.dad/embed/stream-768.php/|webvideocast
+https://dlhd.dad/embed/stream-768.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Fox Weather Channel (1)
-https://dlhd.dad/embed/stream-775.php/|webvideocast
+https://dlhd.dad/embed/stream-775.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",GOL PLAY Spain (1)
-https://dlhd.dad/embed/stream-530.php/|webvideocast
+https://dlhd.dad/embed/stream-530.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",GOLF Channel USA (1)
-https://dlhd.dad/embed/stream-318.php/|webvideocast
+https://dlhd.dad/embed/stream-318.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Game Show Network (1)
-https://dlhd.dad/embed/stream-319.php/|webvideocast
+https://dlhd.dad/embed/stream-319.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Gol Mundial 1 (1)
-https://dlhd.dad/embed/stream-292.php/|webvideocast
+https://dlhd.dad/embed/stream-292.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Gold UK (1)
-https://dlhd.dad/embed/stream-687.php/|webvideocast
+https://dlhd.dad/embed/stream-687.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Galavisi贸n USA (1)
-https://dlhd.dad/embed/stream-743.php/|webvideocast
+https://dlhd.dad/embed/stream-743.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",CBC CA (1)
-https://dlhd.dad/embed/stream-699.php/|webvideocast
+https://dlhd.dad/embed/stream-699.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Grit Channel (1)
-https://dlhd.dad/embed/stream-752.php/|webvideocast
+https://dlhd.dad/embed/stream-752.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Globo SP (1)
-https://dlhd.dad/embed/stream-760.php/|webvideocast
+https://dlhd.dad/embed/stream-760.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Globo RIO (1)
-https://dlhd.dad/embed/stream-761.php/|webvideocast
+https://dlhd.dad/embed/stream-761.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Global CA (1)
-https://dlhd.dad/embed/stream-836.php/|webvideocast
+https://dlhd.dad/embed/stream-836.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",The Hallmark Channel (1)
-https://dlhd.dad/embed/stream-320.php/|webvideocast
+https://dlhd.dad/embed/stream-320.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Hallmark Movies & Mysterie (1)
-https://dlhd.dad/embed/stream-296.php/|webvideocast
+https://dlhd.dad/embed/stream-296.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO USA (1)
-https://dlhd.dad/embed/stream-321.php/|webvideocast
+https://dlhd.dad/embed/stream-321.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO2 USA (1)
-https://dlhd.dad/embed/stream-689.php/|webvideocast
+https://dlhd.dad/embed/stream-689.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO Comedy USA (1)
-https://dlhd.dad/embed/stream-690.php/|webvideocast
+https://dlhd.dad/embed/stream-690.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO Family USA (1)
-https://dlhd.dad/embed/stream-691.php/|webvideocast
+https://dlhd.dad/embed/stream-691.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO Latino USA (1)
-https://dlhd.dad/embed/stream-692.php/|webvideocast
+https://dlhd.dad/embed/stream-692.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO Signature USA (1)
-https://dlhd.dad/embed/stream-693.php/|webvideocast
+https://dlhd.dad/embed/stream-693.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO Zone USA (1)
-https://dlhd.dad/embed/stream-694.php/|webvideocast
+https://dlhd.dad/embed/stream-694.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HBO Poland (1)
-https://dlhd.dad/embed/stream-569.php/|webvideocast
+https://dlhd.dad/embed/stream-569.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",History USA (1)
-https://dlhd.dad/embed/stream-322.php/|webvideocast
+https://dlhd.dad/embed/stream-322.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Headline News (1)
-https://dlhd.dad/embed/stream-323.php/|webvideocast
+https://dlhd.dad/embed/stream-323.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HGTV (1)
-https://dlhd.dad/embed/stream-382.php/|webvideocast
+https://dlhd.dad/embed/stream-382.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HOT3 Israel (1)
-https://dlhd.dad/embed/stream-553.php/|webvideocast
+https://dlhd.dad/embed/stream-553.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",HR Fernsehen DE (1)
-https://dlhd.dad/embed/stream-740.php/|webvideocast
+https://dlhd.dad/embed/stream-740.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ITV 1 UK (1)
-https://dlhd.dad/embed/stream-350.php/|webvideocast
+https://dlhd.dad/embed/stream-350.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ITV 2 UK (1)
-https://dlhd.dad/embed/stream-351.php/|webvideocast
+https://dlhd.dad/embed/stream-351.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ITV 3 UK (1)
-https://dlhd.dad/embed/stream-352.php/|webvideocast
+https://dlhd.dad/embed/stream-352.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ITV 4 UK (1)
-https://dlhd.dad/embed/stream-353.php/|webvideocast
+https://dlhd.dad/embed/stream-353.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Italia 1 Italy (1)
-https://dlhd.dad/embed/stream-854.php/|webvideocast
+https://dlhd.dad/embed/stream-854.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Investigation Discovery (ID USA) (1)
-https://dlhd.dad/embed/stream-324.php/|webvideocast
+https://dlhd.dad/embed/stream-324.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ION USA (1)
-https://dlhd.dad/embed/stream-325.php/|webvideocast
+https://dlhd.dad/embed/stream-325.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",IFC TV USA (1)
-https://dlhd.dad/embed/stream-656.php/|webvideocast
+https://dlhd.dad/embed/stream-656.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Kanal 4 Denmark (1)
-https://dlhd.dad/embed/stream-803.php/|webvideocast
+https://dlhd.dad/embed/stream-803.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Kanal 5 Denmark (1)
-https://dlhd.dad/embed/stream-804.php/|webvideocast
+https://dlhd.dad/embed/stream-804.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Kabel Eins (Kabel 1) DE (1)
-https://dlhd.dad/embed/stream-731.php/|webvideocast
+https://dlhd.dad/embed/stream-731.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",LaLiga SmartBank TV (1)
-https://dlhd.dad/embed/stream-539.php/|webvideocast
+https://dlhd.dad/embed/stream-539.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",L'Equipe France (1)
-https://dlhd.dad/embed/stream-645.php/|webvideocast
+https://dlhd.dad/embed/stream-645.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",La Sexta Spain (1)
-https://dlhd.dad/embed/stream-534.php/|webvideocast
+https://dlhd.dad/embed/stream-534.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Liverpool TV (LFC TV) (1)
-https://dlhd.dad/embed/stream-826.php/|webvideocast
+https://dlhd.dad/embed/stream-826.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Lifetime Network (1)
-https://dlhd.dad/embed/stream-326.php/|webvideocast
+https://dlhd.dad/embed/stream-326.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Lifetime Movies Network (1)
-https://dlhd.dad/embed/stream-389.php/|webvideocast
+https://dlhd.dad/embed/stream-389.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Longhorn Network USA (1)
-https://dlhd.dad/embed/stream-667.php/|webvideocast
+https://dlhd.dad/embed/stream-667.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",La7 Italy (1)
-https://dlhd.dad/embed/stream-855.php/|webvideocast
+https://dlhd.dad/embed/stream-855.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",LA7d HD+ Italy (1)
-https://dlhd.dad/embed/stream-856.php/|webvideocast
+https://dlhd.dad/embed/stream-856.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Match Football 1 Russia (1)
-https://dlhd.dad/embed/stream-136.php/|webvideocast
+https://dlhd.dad/embed/stream-136.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Match Football 2 Russia (1)
-https://dlhd.dad/embed/stream-137.php/|webvideocast
+https://dlhd.dad/embed/stream-137.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Match Football 3 Russia (1)
-https://dlhd.dad/embed/stream-138.php/|webvideocast
+https://dlhd.dad/embed/stream-138.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Match Premier Russia (1)
-https://dlhd.dad/embed/stream-573.php/|webvideocast
+https://dlhd.dad/embed/stream-573.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Match TV Russia (1)
-https://dlhd.dad/embed/stream-127.php/|webvideocast
+https://dlhd.dad/embed/stream-127.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",МАТЧ! БОЕЦ Russia (1)
-https://dlhd.dad/embed/stream-395.php/|webvideocast
+https://dlhd.dad/embed/stream-395.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Laliga (1)
-https://dlhd.dad/embed/stream-84.php/|webvideocast
+https://dlhd.dad/embed/stream-84.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Liga de Campeones (1)
-https://dlhd.dad/embed/stream-435.php/|webvideocast
+https://dlhd.dad/embed/stream-435.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Deportes Spain (1)
-https://dlhd.dad/embed/stream-436.php/|webvideocast
+https://dlhd.dad/embed/stream-436.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Deportes 2 Spain (1)
-https://dlhd.dad/embed/stream-438.php/|webvideocast
+https://dlhd.dad/embed/stream-438.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Deportes 3 Spain (1)
-https://dlhd.dad/embed/stream-526.php/|webvideocast
+https://dlhd.dad/embed/stream-526.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Deportes 4 Spain (1)
-https://dlhd.dad/embed/stream-527.php/|webvideocast
+https://dlhd.dad/embed/stream-527.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Movistar Golf Spain (1)
-https://dlhd.dad/embed/stream-528.php/|webvideocast
+https://dlhd.dad/embed/stream-528.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Motowizja Poland (1)
-https://dlhd.dad/embed/stream-563.php/|webvideocast
+https://dlhd.dad/embed/stream-563.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MSG USA (1)
-https://dlhd.dad/embed/stream-765.php/|webvideocast
+https://dlhd.dad/embed/stream-765.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MSNBC (1)
-https://dlhd.dad/embed/stream-327.php/|webvideocast
+https://dlhd.dad/embed/stream-327.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Magnolia Network (1)
-https://dlhd.dad/embed/stream-299.php/|webvideocast
+https://dlhd.dad/embed/stream-299.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MTV UK (1)
-https://dlhd.dad/embed/stream-367.php/|webvideocast
+https://dlhd.dad/embed/stream-367.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MTV USA (1)
-https://dlhd.dad/embed/stream-371.php/|webvideocast
+https://dlhd.dad/embed/stream-371.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MUTV UK (1)
-https://dlhd.dad/embed/stream-377.php/|webvideocast
+https://dlhd.dad/embed/stream-377.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MAVTV USA (1)
-https://dlhd.dad/embed/stream-646.php/|webvideocast
+https://dlhd.dad/embed/stream-646.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Max Sport 1 Croatia (1)
-https://dlhd.dad/embed/stream-779.php/|webvideocast
+https://dlhd.dad/embed/stream-779.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Max Sport 2 Croatia (1)
-https://dlhd.dad/embed/stream-780.php/|webvideocast
+https://dlhd.dad/embed/stream-780.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Marquee Sports Network (1)
-https://dlhd.dad/embed/stream-770.php/|webvideocast
+https://dlhd.dad/embed/stream-770.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Max Sport 1 Bulgaria (1)
-https://dlhd.dad/embed/stream-472.php/|webvideocast
+https://dlhd.dad/embed/stream-472.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Max Sport 2 Bulgaria (1)
-https://dlhd.dad/embed/stream-473.php/|webvideocast
+https://dlhd.dad/embed/stream-473.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Max Sport 3 Bulgaria (1)
-https://dlhd.dad/embed/stream-474.php/|webvideocast
+https://dlhd.dad/embed/stream-474.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Max Sport 4 Bulgaria (1)
-https://dlhd.dad/embed/stream-475.php/|webvideocast
+https://dlhd.dad/embed/stream-475.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MLB Network USA (1)
-https://dlhd.dad/embed/stream-399.php/|webvideocast
+https://dlhd.dad/embed/stream-399.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MASN USA (1)
-https://dlhd.dad/embed/stream-829.php/|webvideocast
+https://dlhd.dad/embed/stream-829.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MY9TV USA (1)
-https://dlhd.dad/embed/stream-654.php/|webvideocast
+https://dlhd.dad/embed/stream-654.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Motor Trend (1)
-https://dlhd.dad/embed/stream-661.php/|webvideocast
+https://dlhd.dad/embed/stream-661.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",METV USA (1)
-https://dlhd.dad/embed/stream-662.php/|webvideocast
+https://dlhd.dad/embed/stream-662.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MDR DE (1)
-https://dlhd.dad/embed/stream-733.php/|webvideocast
+https://dlhd.dad/embed/stream-733.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Mundotoro TV Spain (1)
-https://dlhd.dad/embed/stream-749.php/|webvideocast
+https://dlhd.dad/embed/stream-749.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",MTV Denmark (1)
-https://dlhd.dad/embed/stream-806.php/|webvideocast
+https://dlhd.dad/embed/stream-806.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NHL Network USA (1)
-https://dlhd.dad/embed/stream-663.php/|webvideocast
+https://dlhd.dad/embed/stream-663.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sport Bulgaria (1)
-https://dlhd.dad/embed/stream-468.php/|webvideocast
+https://dlhd.dad/embed/stream-468.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sport Serbia (1)
-https://dlhd.dad/embed/stream-582.php/|webvideocast
+https://dlhd.dad/embed/stream-582.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports 1 Greece (1)
-https://dlhd.dad/embed/stream-631.php/|webvideocast
+https://dlhd.dad/embed/stream-631.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports 2 Greece (1)
-https://dlhd.dad/embed/stream-632.php/|webvideocast
+https://dlhd.dad/embed/stream-632.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports 3 Greece (1)
-https://dlhd.dad/embed/stream-633.php/|webvideocast
+https://dlhd.dad/embed/stream-633.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports 4 Greece (1)
-https://dlhd.dad/embed/stream-634.php/|webvideocast
+https://dlhd.dad/embed/stream-634.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports 5 Greece (1)
-https://dlhd.dad/embed/stream-635.php/|webvideocast
+https://dlhd.dad/embed/stream-635.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports 6 Greece (1)
-https://dlhd.dad/embed/stream-636.php/|webvideocast
+https://dlhd.dad/embed/stream-636.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports Premier League Greece (1)
-https://dlhd.dad/embed/stream-599.php/|webvideocast
+https://dlhd.dad/embed/stream-599.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports Start Greece (1)
-https://dlhd.dad/embed/stream-637.php/|webvideocast
+https://dlhd.dad/embed/stream-637.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports Prime Greece (1)
-https://dlhd.dad/embed/stream-638.php/|webvideocast
+https://dlhd.dad/embed/stream-638.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova Sports News Greece (1)
-https://dlhd.dad/embed/stream-639.php/|webvideocast
+https://dlhd.dad/embed/stream-639.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NESN USA (1)
-https://dlhd.dad/embed/stream-762.php/|webvideocast
+https://dlhd.dad/embed/stream-762.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC USA (1)
-https://dlhd.dad/embed/stream-53.php/|webvideocast
+https://dlhd.dad/embed/stream-53.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBA TV USA (1)
-https://dlhd.dad/embed/stream-404.php/|webvideocast
+https://dlhd.dad/embed/stream-404.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC Sports Chicago (1)
-https://dlhd.dad/embed/stream-776.php/|webvideocast
+https://dlhd.dad/embed/stream-776.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC Sports Philadelphia (1)
-https://dlhd.dad/embed/stream-777.php/|webvideocast
+https://dlhd.dad/embed/stream-777.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC Sports Washington (1)
-https://dlhd.dad/embed/stream-778.php/|webvideocast
+https://dlhd.dad/embed/stream-778.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NFL Network (1)
-https://dlhd.dad/embed/stream-405.php/|webvideocast
+https://dlhd.dad/embed/stream-405.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC Sports Bay Area (1)
-https://dlhd.dad/embed/stream-753.php/|webvideocast
+https://dlhd.dad/embed/stream-753.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC Sports Boston (1)
-https://dlhd.dad/embed/stream-754.php/|webvideocast
+https://dlhd.dad/embed/stream-754.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBC Sports California (1)
-https://dlhd.dad/embed/stream-755.php/|webvideocast
+https://dlhd.dad/embed/stream-755.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NBCNY USA (1)
-https://dlhd.dad/embed/stream-769.php/|webvideocast
+https://dlhd.dad/embed/stream-769.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nova TV Bulgaria (1)
-https://dlhd.dad/embed/stream-480.php/|webvideocast
+https://dlhd.dad/embed/stream-480.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",National Geographic (NGC) (1)
-https://dlhd.dad/embed/stream-328.php/|webvideocast
+https://dlhd.dad/embed/stream-328.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NICK JR (1)
-https://dlhd.dad/embed/stream-329.php/|webvideocast
+https://dlhd.dad/embed/stream-329.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NICK (1)
-https://dlhd.dad/embed/stream-330.php/|webvideocast
+https://dlhd.dad/embed/stream-330.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nick Music (1)
-https://dlhd.dad/embed/stream-666.php/|webvideocast
+https://dlhd.dad/embed/stream-666.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nicktoons (1)
-https://dlhd.dad/embed/stream-649.php/|webvideocast
+https://dlhd.dad/embed/stream-649.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NDR DE (1)
-https://dlhd.dad/embed/stream-736.php/|webvideocast
+https://dlhd.dad/embed/stream-736.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",NewsNation USA (1)
-https://dlhd.dad/embed/stream-292.php/|webvideocast
+https://dlhd.dad/embed/stream-292.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Newsmax USA (1)
-https://dlhd.dad/embed/stream-613.php/|webvideocast
+https://dlhd.dad/embed/stream-613.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Nat Geo Wild USA (1)
-https://dlhd.dad/embed/stream-745.php/|webvideocast
+https://dlhd.dad/embed/stream-745.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Noovo CA (1)
-https://dlhd.dad/embed/stream-835.php/|webvideocast
+https://dlhd.dad/embed/stream-835.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",New! CWPIX 11 (1)
-https://dlhd.dad/embed/stream-771.php/|webvideocast
+https://dlhd.dad/embed/stream-771.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",OnTime Sports (1)
-https://dlhd.dad/embed/stream-611.php/|webvideocast
+https://dlhd.dad/embed/stream-611.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",OnTime Sports 2 (1)
-https://dlhd.dad/embed/stream-612.php/|webvideocast
+https://dlhd.dad/embed/stream-612.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ONE 1 HD Israel (1)
-https://dlhd.dad/embed/stream-541.php/|webvideocast
+https://dlhd.dad/embed/stream-541.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ONE 2 HD Israel (1)
-https://dlhd.dad/embed/stream-542.php/|webvideocast
+https://dlhd.dad/embed/stream-542.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Orange Sport 1 Romania (1)
-https://dlhd.dad/embed/stream-439.php/|webvideocast
+https://dlhd.dad/embed/stream-439.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Orange Sport 2 Romania (1)
-https://dlhd.dad/embed/stream-440.php/|webvideocast
+https://dlhd.dad/embed/stream-440.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Orange Sport 3 Romania (1)
-https://dlhd.dad/embed/stream-441.php/|webvideocast
+https://dlhd.dad/embed/stream-441.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Orange Sport 4 Romania (1)
-https://dlhd.dad/embed/stream-442.php/|webvideocast
+https://dlhd.dad/embed/stream-442.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Oprah Winfrey Network (OWN) (1)
-https://dlhd.dad/embed/stream-331.php/|webvideocast
+https://dlhd.dad/embed/stream-331.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Oxygen True Crime (1)
-https://dlhd.dad/embed/stream-332.php/|webvideocast
+https://dlhd.dad/embed/stream-332.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Polsat Poland (1)
-https://dlhd.dad/embed/stream-562.php/|webvideocast
+https://dlhd.dad/embed/stream-562.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Polsat Sport Poland (1)
-https://dlhd.dad/embed/stream-47.php/|webvideocast
+https://dlhd.dad/embed/stream-47.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Polsat Sport Extra Poland (1)
-https://dlhd.dad/embed/stream-50.php/|webvideocast
+https://dlhd.dad/embed/stream-50.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Polsat Sport News Poland (1)
-https://dlhd.dad/embed/stream-129.php/|webvideocast
+https://dlhd.dad/embed/stream-129.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Polsat News Poland (1)
-https://dlhd.dad/embed/stream-443.php/|webvideocast
+https://dlhd.dad/embed/stream-443.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Polsat Film Poland (1)
-https://dlhd.dad/embed/stream-564.php/|webvideocast
+https://dlhd.dad/embed/stream-564.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Porto Canal Portugal (1)
-https://dlhd.dad/embed/stream-718.php/|webvideocast
+https://dlhd.dad/embed/stream-718.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ProSieben (PRO7) DE (1)
-https://dlhd.dad/embed/stream-730.php/|webvideocast
+https://dlhd.dad/embed/stream-730.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",PTV Sports (1)
-https://dlhd.dad/embed/stream-450.php/|webvideocast
+https://dlhd.dad/embed/stream-450.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Premier Brasil (1)
-https://dlhd.dad/embed/stream-88.php/|webvideocast
+https://dlhd.dad/embed/stream-88.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Prima Sport 1 (1)
-https://dlhd.dad/embed/stream-583.php/|webvideocast
+https://dlhd.dad/embed/stream-583.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Prima Sport 2 (1)
-https://dlhd.dad/embed/stream-584.php/|webvideocast
+https://dlhd.dad/embed/stream-584.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Prima Sport 3 (1)
-https://dlhd.dad/embed/stream-585.php/|webvideocast
+https://dlhd.dad/embed/stream-585.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Prima Sport 4 (1)
-https://dlhd.dad/embed/stream-586.php/|webvideocast
+https://dlhd.dad/embed/stream-586.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Paramount Network (1)
-https://dlhd.dad/embed/stream-334.php/|webvideocast
+https://dlhd.dad/embed/stream-334.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",POP TV USA (1)
-https://dlhd.dad/embed/stream-653.php/|webvideocast
+https://dlhd.dad/embed/stream-653.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RTE 1 (1)
-https://dlhd.dad/embed/stream-364.php/|webvideocast
+https://dlhd.dad/embed/stream-364.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RTE 2 (1)
-https://dlhd.dad/embed/stream-365.php/|webvideocast
+https://dlhd.dad/embed/stream-365.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RMC Sport 1 France (1)
-https://dlhd.dad/embed/stream-119.php/|webvideocast
+https://dlhd.dad/embed/stream-119.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RMC Sport 2 France (1)
-https://dlhd.dad/embed/stream-120.php/|webvideocast
+https://dlhd.dad/embed/stream-120.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RTP 1 Portugal (1)
-https://dlhd.dad/embed/stream-719.php/|webvideocast
+https://dlhd.dad/embed/stream-719.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RTP 2 Portugal (1)
-https://dlhd.dad/embed/stream-720.php/|webvideocast
+https://dlhd.dad/embed/stream-720.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RTP 3 Portugal (1)
-https://dlhd.dad/embed/stream-721.php/|webvideocast
+https://dlhd.dad/embed/stream-721.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Rai 1 Italy (1)
-https://dlhd.dad/embed/stream-850.php/|webvideocast
+https://dlhd.dad/embed/stream-850.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Rai 2 Italy (1)
-https://dlhd.dad/embed/stream-851.php/|webvideocast
+https://dlhd.dad/embed/stream-851.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Rai 3 Italy (1)
-https://dlhd.dad/embed/stream-852.php/|webvideocast
+https://dlhd.dad/embed/stream-852.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Rai 3 Italy (1)
-https://dlhd.dad/embed/stream-853.php/|webvideocast
+https://dlhd.dad/embed/stream-853.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Rai Sport Italy (1)
-https://dlhd.dad/embed/stream-882.php/|webvideocast
+https://dlhd.dad/embed/stream-882.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Rai Premium Italy (1)
-https://dlhd.dad/embed/stream-858.php/|webvideocast
+https://dlhd.dad/embed/stream-858.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Real Madrid TV Spain (1)
-https://dlhd.dad/embed/stream-523.php/|webvideocast
+https://dlhd.dad/embed/stream-523.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RDS CA (1)
-https://dlhd.dad/embed/stream-839.php/|webvideocast
+https://dlhd.dad/embed/stream-839.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RDS 2 CA (1)
-https://dlhd.dad/embed/stream-840.php/|webvideocast
+https://dlhd.dad/embed/stream-840.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RDS Info CA (1)
-https://dlhd.dad/embed/stream-841.php/|webvideocast
+https://dlhd.dad/embed/stream-841.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Ring Bulgaria (1)
-https://dlhd.dad/embed/stream-471.php/|webvideocast
+https://dlhd.dad/embed/stream-471.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",RTL7 Netherland (1)
-https://dlhd.dad/embed/stream-390.php/|webvideocast
+https://dlhd.dad/embed/stream-390.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Racing Tv UK (1)
-https://dlhd.dad/embed/stream-555.php/|webvideocast
+https://dlhd.dad/embed/stream-555.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Reelz Channel (1)
-https://dlhd.dad/embed/stream-293.php/|webvideocast
+https://dlhd.dad/embed/stream-293.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Football UK (1)
-https://dlhd.dad/embed/stream-35.php/|webvideocast
+https://dlhd.dad/embed/stream-35.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Arena UK (1)
-https://dlhd.dad/embed/stream-36.php/|webvideocast
+https://dlhd.dad/embed/stream-36.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Action UK (1)
-https://dlhd.dad/embed/stream-37.php/|webvideocast
+https://dlhd.dad/embed/stream-37.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Main Event (1)
-https://dlhd.dad/embed/stream-38.php/|webvideocast
+https://dlhd.dad/embed/stream-38.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky sports Premier League (1)
-https://dlhd.dad/embed/stream-130.php/|webvideocast
+https://dlhd.dad/embed/stream-130.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports F1 UK (1)
-https://dlhd.dad/embed/stream-60.php/|webvideocast
+https://dlhd.dad/embed/stream-60.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Cricket (1)
-https://dlhd.dad/embed/stream-65.php/|webvideocast
+https://dlhd.dad/embed/stream-65.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Golf UK (1)
-https://dlhd.dad/embed/stream-70.php/|webvideocast
+https://dlhd.dad/embed/stream-70.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Golf Italy (1)
-https://dlhd.dad/embed/stream-574.php/|webvideocast
+https://dlhd.dad/embed/stream-574.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport MotoGP Italy (1)
-https://dlhd.dad/embed/stream-575.php/|webvideocast
+https://dlhd.dad/embed/stream-575.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Tennis Italy (1)
-https://dlhd.dad/embed/stream-576.php/|webvideocast
+https://dlhd.dad/embed/stream-576.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport F1 Italy (1)
-https://dlhd.dad/embed/stream-577.php/|webvideocast
+https://dlhd.dad/embed/stream-577.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports News UK (1)
-https://dlhd.dad/embed/stream-366.php/|webvideocast
+https://dlhd.dad/embed/stream-366.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports MIX UK (1)
-https://dlhd.dad/embed/stream-449.php/|webvideocast
+https://dlhd.dad/embed/stream-449.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Top Event DE (1)
-https://dlhd.dad/embed/stream-556.php/|webvideocast
+https://dlhd.dad/embed/stream-556.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Mix DE (1)
-https://dlhd.dad/embed/stream-557.php/|webvideocast
+https://dlhd.dad/embed/stream-557.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Bundesliga 1 HD (1)
-https://dlhd.dad/embed/stream-558.php/|webvideocast
+https://dlhd.dad/embed/stream-558.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Austria 1 HD (1)
-https://dlhd.dad/embed/stream-559.php/|webvideocast
+https://dlhd.dad/embed/stream-559.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SportsNet New York (SNY) (1)
-https://dlhd.dad/embed/stream-759.php/|webvideocast
+https://dlhd.dad/embed/stream-759.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Football Italy (1)
-https://dlhd.dad/embed/stream-460.php/|webvideocast
+https://dlhd.dad/embed/stream-460.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport UNO Italy (1)
-https://dlhd.dad/embed/stream-461.php/|webvideocast
+https://dlhd.dad/embed/stream-461.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Arena Italy (1)
-https://dlhd.dad/embed/stream-462.php/|webvideocast
+https://dlhd.dad/embed/stream-462.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sports Racing UK (1)
-https://dlhd.dad/embed/stream-554.php/|webvideocast
+https://dlhd.dad/embed/stream-554.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky UNO Italy (1)
-https://dlhd.dad/embed/stream-881.php/|webvideocast
+https://dlhd.dad/embed/stream-881.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 1 NZ (1)
-https://dlhd.dad/embed/stream-588.php/|webvideocast
+https://dlhd.dad/embed/stream-588.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 2 NZ (1)
-https://dlhd.dad/embed/stream-589.php/|webvideocast
+https://dlhd.dad/embed/stream-589.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 3 NZ (1)
-https://dlhd.dad/embed/stream-590.php/|webvideocast
+https://dlhd.dad/embed/stream-590.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 4 NZ (1)
-https://dlhd.dad/embed/stream-591.php/|webvideocast
+https://dlhd.dad/embed/stream-591.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 5 NZ (1)
-https://dlhd.dad/embed/stream-592.php/|webvideocast
+https://dlhd.dad/embed/stream-592.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 6 NZ (1)
-https://dlhd.dad/embed/stream-593.php/|webvideocast
+https://dlhd.dad/embed/stream-593.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 7 NZ (1)
-https://dlhd.dad/embed/stream-594.php/|webvideocast
+https://dlhd.dad/embed/stream-594.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 8 NZ (1)
-https://dlhd.dad/embed/stream-595.php/|webvideocast
+https://dlhd.dad/embed/stream-595.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 9 NZ (1)
-https://dlhd.dad/embed/stream-596.php/|webvideocast
+https://dlhd.dad/embed/stream-596.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Select NZ (1)
-https://dlhd.dad/embed/stream-587.php/|webvideocast
+https://dlhd.dad/embed/stream-587.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport TV1 Portugal (1)
-https://dlhd.dad/embed/stream-49.php/|webvideocast
+https://dlhd.dad/embed/stream-49.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport TV2 Portugal (1)
-https://dlhd.dad/embed/stream-74.php/|webvideocast
+https://dlhd.dad/embed/stream-74.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport TV4 Portugal (1)
-https://dlhd.dad/embed/stream-289.php/|webvideocast
+https://dlhd.dad/embed/stream-289.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport TV3 Portugal (1)
-https://dlhd.dad/embed/stream-454.php/|webvideocast
+https://dlhd.dad/embed/stream-454.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport TV5 Portugal (1)
-https://dlhd.dad/embed/stream-290.php/|webvideocast
+https://dlhd.dad/embed/stream-290.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport TV6 Portugal (1)
-https://dlhd.dad/embed/stream-291.php/|webvideocast
+https://dlhd.dad/embed/stream-291.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SIC Portugal (1)
-https://dlhd.dad/embed/stream-722.php/|webvideocast
+https://dlhd.dad/embed/stream-722.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SEC Network USA (1)
-https://dlhd.dad/embed/stream-385.php/|webvideocast
+https://dlhd.dad/embed/stream-385.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SporTV Brasil (1)
-https://dlhd.dad/embed/stream-78.php/|webvideocast
+https://dlhd.dad/embed/stream-78.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SporTV2 Brasil (1)
-https://dlhd.dad/embed/stream-79.php/|webvideocast
+https://dlhd.dad/embed/stream-79.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SporTV3 Brasil (1)
-https://dlhd.dad/embed/stream-80.php/|webvideocast
+https://dlhd.dad/embed/stream-80.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport Klub 1 Serbia (1)
-https://dlhd.dad/embed/stream-101.php/|webvideocast
+https://dlhd.dad/embed/stream-101.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport Klub 2 Serbia (1)
-https://dlhd.dad/embed/stream-102.php/|webvideocast
+https://dlhd.dad/embed/stream-102.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport Klub 3 Serbia (1)
-https://dlhd.dad/embed/stream-103.php/|webvideocast
+https://dlhd.dad/embed/stream-103.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport Klub 4 Serbia (1)
-https://dlhd.dad/embed/stream-104.php/|webvideocast
+https://dlhd.dad/embed/stream-104.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport Klub HD Serbia (1)
-https://dlhd.dad/embed/stream-453.php/|webvideocast
+https://dlhd.dad/embed/stream-453.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sportsnet Ontario (1)
-https://dlhd.dad/embed/stream-406.php/|webvideocast
+https://dlhd.dad/embed/stream-406.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sportsnet One (1)
-https://dlhd.dad/embed/stream-411.php/|webvideocast
+https://dlhd.dad/embed/stream-411.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sportsnet West (1)
-https://dlhd.dad/embed/stream-407.php/|webvideocast
+https://dlhd.dad/embed/stream-407.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sportsnet East (1)
-https://dlhd.dad/embed/stream-408.php/|webvideocast
+https://dlhd.dad/embed/stream-408.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sportsnet 360 (1)
-https://dlhd.dad/embed/stream-409.php/|webvideocast
+https://dlhd.dad/embed/stream-409.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sportsnet World (1)
-https://dlhd.dad/embed/stream-410.php/|webvideocast
+https://dlhd.dad/embed/stream-410.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Grandstand (1)
-https://dlhd.dad/embed/stream-412.php/|webvideocast
+https://dlhd.dad/embed/stream-412.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport PSL (1)
-https://dlhd.dad/embed/stream-413.php/|webvideocast
+https://dlhd.dad/embed/stream-413.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Premier league (1)
-https://dlhd.dad/embed/stream-414.php/|webvideocast
+https://dlhd.dad/embed/stream-414.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport LaLiga (1)
-https://dlhd.dad/embed/stream-415.php/|webvideocast
+https://dlhd.dad/embed/stream-415.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Variety 1 (1)
-https://dlhd.dad/embed/stream-416.php/|webvideocast
+https://dlhd.dad/embed/stream-416.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Variety 2 (1)
-https://dlhd.dad/embed/stream-417.php/|webvideocast
+https://dlhd.dad/embed/stream-417.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Variety 3 (1)
-https://dlhd.dad/embed/stream-418.php/|webvideocast
+https://dlhd.dad/embed/stream-418.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Variety 4 (1)
-https://dlhd.dad/embed/stream-419.php/|webvideocast
+https://dlhd.dad/embed/stream-419.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Action (1)
-https://dlhd.dad/embed/stream-420.php/|webvideocast
+https://dlhd.dad/embed/stream-420.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Rugby (1)
-https://dlhd.dad/embed/stream-421.php/|webvideocast
+https://dlhd.dad/embed/stream-421.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Golf (1)
-https://dlhd.dad/embed/stream-422.php/|webvideocast
+https://dlhd.dad/embed/stream-422.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Tennis (1)
-https://dlhd.dad/embed/stream-423.php/|webvideocast
+https://dlhd.dad/embed/stream-423.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Motorsport (1)
-https://dlhd.dad/embed/stream-424.php/|webvideocast
+https://dlhd.dad/embed/stream-424.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Supersport Football (1)
-https://dlhd.dad/embed/stream-56.php/|webvideocast
+https://dlhd.dad/embed/stream-56.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport Cricket (1)
-https://dlhd.dad/embed/stream-368.php/|webvideocast
+https://dlhd.dad/embed/stream-368.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SuperSport MaXimo 1 (1)
-https://dlhd.dad/embed/stream-572.php/|webvideocast
+https://dlhd.dad/embed/stream-572.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sporting TV Portugal (1)
-https://dlhd.dad/embed/stream-716.php/|webvideocast
+https://dlhd.dad/embed/stream-716.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SportDigital Fussball (1)
-https://dlhd.dad/embed/stream-571.php/|webvideocast
+https://dlhd.dad/embed/stream-571.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Spectrum Sportsnet LA (1)
-https://dlhd.dad/embed/stream-764.php/|webvideocast
+https://dlhd.dad/embed/stream-764.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport1+ Germany (1)
-https://dlhd.dad/embed/stream-640.php/|webvideocast
+https://dlhd.dad/embed/stream-640.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport1 Germany (1)
-https://dlhd.dad/embed/stream-641.php/|webvideocast
+https://dlhd.dad/embed/stream-641.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",S4C UK (1)
-https://dlhd.dad/embed/stream-670.php/|webvideocast
+https://dlhd.dad/embed/stream-670.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SAT.1 DE (1)
-https://dlhd.dad/embed/stream-729.php/|webvideocast
+https://dlhd.dad/embed/stream-729.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Premiere UK (1)
-https://dlhd.dad/embed/stream-671.php/|webvideocast
+https://dlhd.dad/embed/stream-671.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Select UK (1)
-https://dlhd.dad/embed/stream-672.php/|webvideocast
+https://dlhd.dad/embed/stream-672.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Hits UK (1)
-https://dlhd.dad/embed/stream-673.php/|webvideocast
+https://dlhd.dad/embed/stream-673.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Greats UK (1)
-https://dlhd.dad/embed/stream-674.php/|webvideocast
+https://dlhd.dad/embed/stream-674.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Animation UK (1)
-https://dlhd.dad/embed/stream-675.php/|webvideocast
+https://dlhd.dad/embed/stream-675.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Family UK (1)
-https://dlhd.dad/embed/stream-676.php/|webvideocast
+https://dlhd.dad/embed/stream-676.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Action UK (1)
-https://dlhd.dad/embed/stream-677.php/|webvideocast
+https://dlhd.dad/embed/stream-677.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",The Hallmark (1)
-https://dlhd.dad/embed/stream-678.php/|webvideocast
+https://dlhd.dad/embed/stream-678.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Thriller UK (1)
-https://dlhd.dad/embed/stream-679.php/|webvideocast
+https://dlhd.dad/embed/stream-679.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",The Hallmark (1)
-https://dlhd.dad/embed/stream-680.php/|webvideocast
+https://dlhd.dad/embed/stream-680.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Sci-Fi Horror UK (1)
-https://dlhd.dad/embed/stream-681.php/|webvideocast
+https://dlhd.dad/embed/stream-681.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Collection Italy (1)
-https://dlhd.dad/embed/stream-859.php/|webvideocast
+https://dlhd.dad/embed/stream-859.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Uno Italy (1)
-https://dlhd.dad/embed/stream-860.php/|webvideocast
+https://dlhd.dad/embed/stream-860.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Action Italy (1)
-https://dlhd.dad/embed/stream-861.php/|webvideocast
+https://dlhd.dad/embed/stream-861.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",8Sky Cinema Comedy Italy (1)
-https://dlhd.dad/embed/stream-862.php/|webvideocast
+https://dlhd.dad/embed/stream-862.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Uno +24 Italy (1)
-https://dlhd.dad/embed/stream-863.php/|webvideocast
+https://dlhd.dad/embed/stream-863.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Romance Italy (1)
-https://dlhd.dad/embed/stream-864.php/|webvideocast
+https://dlhd.dad/embed/stream-864.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Family Italy (1)
-https://dlhd.dad/embed/stream-865.php/|webvideocast
+https://dlhd.dad/embed/stream-865.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Due +24 Italy (1)
-https://dlhd.dad/embed/stream-866.php/|webvideocast
+https://dlhd.dad/embed/stream-866.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Cinema Drama Italy (1)
-https://dlhd.dad/embed/stream-867.php/|webvideocast
+https://dlhd.dad/embed/stream-867.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",8Sky Cinema Suspense Italy (1)
-https://dlhd.dad/embed/stream-868.php/|webvideocast
+https://dlhd.dad/embed/stream-868.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport 24 Italy (1)
-https://dlhd.dad/embed/stream-869.php/|webvideocast
+https://dlhd.dad/embed/stream-869.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Sport Calcio Italy (1)
-https://dlhd.dad/embed/stream-870.php/|webvideocast
+https://dlhd.dad/embed/stream-870.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 1 (251) Italy (1)
-https://dlhd.dad/embed/stream-871.php/|webvideocast
+https://dlhd.dad/embed/stream-871.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 2 (252) Italy (1)
-https://dlhd.dad/embed/stream-872.php/|webvideocast
+https://dlhd.dad/embed/stream-872.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 3 (253) Italy (1)
-https://dlhd.dad/embed/stream-873.php/|webvideocast
+https://dlhd.dad/embed/stream-873.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 4 (254) Italy (1)
-https://dlhd.dad/embed/stream-874.php/|webvideocast
+https://dlhd.dad/embed/stream-874.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 5 (255) Italy (1)
-https://dlhd.dad/embed/stream-875.php/|webvideocast
+https://dlhd.dad/embed/stream-875.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 6 (256) Italy (1)
-https://dlhd.dad/embed/stream-876.php/|webvideocast
+https://dlhd.dad/embed/stream-876.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Calcio 7 (257) Italy (1)
-https://dlhd.dad/embed/stream-877.php/|webvideocast
+https://dlhd.dad/embed/stream-877.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Serie Italy (1)
-https://dlhd.dad/embed/stream-880.php/|webvideocast
+https://dlhd.dad/embed/stream-880.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",StarzPlay CricLife 1 HD (1)
-https://dlhd.dad/embed/stream-284.php/|webvideocast
+https://dlhd.dad/embed/stream-284.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",StarzPlay CricLife 2 HD (1)
-https://dlhd.dad/embed/stream-283.php/|webvideocast
+https://dlhd.dad/embed/stream-283.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",StarzPlay CricLife 3 HD (1)
-https://dlhd.dad/embed/stream-282.php/|webvideocast
+https://dlhd.dad/embed/stream-282.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Showcase UK (1)
-https://dlhd.dad/embed/stream-682.php/|webvideocast
+https://dlhd.dad/embed/stream-682.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Arts UK (1)
-https://dlhd.dad/embed/stream-683.php/|webvideocast
+https://dlhd.dad/embed/stream-683.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Comedy UK (1)
-https://dlhd.dad/embed/stream-684.php/|webvideocast
+https://dlhd.dad/embed/stream-684.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Crime (1)
-https://dlhd.dad/embed/stream-685.php/|webvideocast
+https://dlhd.dad/embed/stream-685.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky History (1)
-https://dlhd.dad/embed/stream-686.php/|webvideocast
+https://dlhd.dad/embed/stream-686.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport 1 (1)
-https://dlhd.dad/embed/stream-614.php/|webvideocast
+https://dlhd.dad/embed/stream-614.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport 2 (1)
-https://dlhd.dad/embed/stream-615.php/|webvideocast
+https://dlhd.dad/embed/stream-615.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport 3 (1)
-https://dlhd.dad/embed/stream-616.php/|webvideocast
+https://dlhd.dad/embed/stream-616.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport 4 (1)
-https://dlhd.dad/embed/stream-617.php/|webvideocast
+https://dlhd.dad/embed/stream-617.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport 5 (1)
-https://dlhd.dad/embed/stream-618.php/|webvideocast
+https://dlhd.dad/embed/stream-618.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport Extra 1 (1)
-https://dlhd.dad/embed/stream-619.php/|webvideocast
+https://dlhd.dad/embed/stream-619.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport Extra 2 (1)
-https://dlhd.dad/embed/stream-620.php/|webvideocast
+https://dlhd.dad/embed/stream-620.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SSC Sport Extra 3 (1)
-https://dlhd.dad/embed/stream-621.php/|webvideocast
+https://dlhd.dad/embed/stream-621.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 1 Israel (1)
-https://dlhd.dad/embed/stream-140.php/|webvideocast
+https://dlhd.dad/embed/stream-140.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 2 Israel (1)
-https://dlhd.dad/embed/stream-141.php/|webvideocast
+https://dlhd.dad/embed/stream-141.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 3 Israel (1)
-https://dlhd.dad/embed/stream-142.php/|webvideocast
+https://dlhd.dad/embed/stream-142.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 4 Israel (1)
-https://dlhd.dad/embed/stream-143.php/|webvideocast
+https://dlhd.dad/embed/stream-143.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 5 Israel (1)
-https://dlhd.dad/embed/stream-144.php/|webvideocast
+https://dlhd.dad/embed/stream-144.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 5 PLUS Israel (1)
-https://dlhd.dad/embed/stream-145.php/|webvideocast
+https://dlhd.dad/embed/stream-145.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 5 Live Israel (1)
-https://dlhd.dad/embed/stream-146.php/|webvideocast
+https://dlhd.dad/embed/stream-146.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 5 Star Israel (1)
-https://dlhd.dad/embed/stream-147.php/|webvideocast
+https://dlhd.dad/embed/stream-147.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sport 5 Gold Israel (1)
-https://dlhd.dad/embed/stream-148.php/|webvideocast
+https://dlhd.dad/embed/stream-148.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Science Channel (1)
-https://dlhd.dad/embed/stream-294.php/|webvideocast
+https://dlhd.dad/embed/stream-294.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Showtime USA (1)
-https://dlhd.dad/embed/stream-333.php/|webvideocast
+https://dlhd.dad/embed/stream-333.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Showtime SHOxBET USA (1)
-https://dlhd.dad/embed/stream-685.php/|webvideocast
+https://dlhd.dad/embed/stream-685.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Starz (1)
-https://dlhd.dad/embed/stream-335.php/|webvideocast
+https://dlhd.dad/embed/stream-335.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Witness HD (1)
-https://dlhd.dad/embed/stream-361.php/|webvideocast
+https://dlhd.dad/embed/stream-361.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sixx DE (1)
-https://dlhd.dad/embed/stream-732.php/|webvideocast
+https://dlhd.dad/embed/stream-732.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sky Atlantic (1)
-https://dlhd.dad/embed/stream-362.php/|webvideocast
+https://dlhd.dad/embed/stream-362.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SYFY USA (1)
-https://dlhd.dad/embed/stream-373.php/|webvideocast
+https://dlhd.dad/embed/stream-373.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Sundance TV (1)
-https://dlhd.dad/embed/stream-658.php/|webvideocast
+https://dlhd.dad/embed/stream-658.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SWR DE (1)
-https://dlhd.dad/embed/stream-735.php/|webvideocast
+https://dlhd.dad/embed/stream-735.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SUPER RTL DE (1)
-https://dlhd.dad/embed/stream-738.php/|webvideocast
+https://dlhd.dad/embed/stream-738.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",SR Fernsehen DE (1)
-https://dlhd.dad/embed/stream-739.php/|webvideocast
+https://dlhd.dad/embed/stream-739.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Smithsonian Channel (1)
-https://dlhd.dad/embed/stream-603.php/|webvideocast
+https://dlhd.dad/embed/stream-603.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Sports 1 UK (1)
-https://dlhd.dad/embed/stream-31.php/|webvideocast
+https://dlhd.dad/embed/stream-31.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Sports 2 UK (1)
-https://dlhd.dad/embed/stream-32.php/|webvideocast
+https://dlhd.dad/embed/stream-32.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Sports 3 UK (1)
-https://dlhd.dad/embed/stream-33.php/|webvideocast
+https://dlhd.dad/embed/stream-33.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Sports 4 UK (1)
-https://dlhd.dad/embed/stream-34.php/|webvideocast
+https://dlhd.dad/embed/stream-34.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TSN1 (1)
-https://dlhd.dad/embed/stream-111.php/|webvideocast
+https://dlhd.dad/embed/stream-111.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TSN2 (1)
-https://dlhd.dad/embed/stream-112.php/|webvideocast
+https://dlhd.dad/embed/stream-112.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TSN3 (1)
-https://dlhd.dad/embed/stream-113.php/|webvideocast
+https://dlhd.dad/embed/stream-113.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TSN4 (1)
-https://dlhd.dad/embed/stream-114.php/|webvideocast
+https://dlhd.dad/embed/stream-114.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TSN5 (1)
-https://dlhd.dad/embed/stream-115.php/|webvideocast
+https://dlhd.dad/embed/stream-115.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVN HD Poland (1)
-https://dlhd.dad/embed/stream-565.php/|webvideocast
+https://dlhd.dad/embed/stream-565.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVN24 Poland (1)
-https://dlhd.dad/embed/stream-444.php/|webvideocast
+https://dlhd.dad/embed/stream-444.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVP1 Poland (1)
-https://dlhd.dad/embed/stream-560.php/|webvideocast
+https://dlhd.dad/embed/stream-560.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVP2 Poland (1)
-https://dlhd.dad/embed/stream-561.php/|webvideocast
+https://dlhd.dad/embed/stream-561.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Telecinco Spain (1)
-https://dlhd.dad/embed/stream-532.php/|webvideocast
+https://dlhd.dad/embed/stream-532.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVE La 1 Spain (1)
-https://dlhd.dad/embed/stream-533.php/|webvideocast
+https://dlhd.dad/embed/stream-533.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVE La 2 Spain (1)
-https://dlhd.dad/embed/stream-536.php/|webvideocast
+https://dlhd.dad/embed/stream-536.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVI Portugal (1)
-https://dlhd.dad/embed/stream-723.php/|webvideocast
+https://dlhd.dad/embed/stream-723.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVI Reality Portugal (1)
-https://dlhd.dad/embed/stream-724.php/|webvideocast
+https://dlhd.dad/embed/stream-724.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Teledeporte Spain (TDP) (1)
-https://dlhd.dad/embed/stream-529.php/|webvideocast
+https://dlhd.dad/embed/stream-529.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TYC Sports Argentina (1)
-https://dlhd.dad/embed/stream-746.php/|webvideocast
+https://dlhd.dad/embed/stream-746.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVP Sport Poland (1)
-https://dlhd.dad/embed/stream-128.php/|webvideocast
+https://dlhd.dad/embed/stream-128.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Brasil (1)
-https://dlhd.dad/embed/stream-87.php/|webvideocast
+https://dlhd.dad/embed/stream-87.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Sports Argentina (1)
-https://dlhd.dad/embed/stream-388.php/|webvideocast
+https://dlhd.dad/embed/stream-388.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT Sports HD Chile (1)
-https://dlhd.dad/embed/stream-642.php/|webvideocast
+https://dlhd.dad/embed/stream-642.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis Channel (1)
-https://dlhd.dad/embed/stream-40.php/|webvideocast
+https://dlhd.dad/embed/stream-40.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Ten Sports PK (1)
-https://dlhd.dad/embed/stream-741.php/|webvideocast
+https://dlhd.dad/embed/stream-741.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TUDN USA (1)
-https://dlhd.dad/embed/stream-66.php/|webvideocast
+https://dlhd.dad/embed/stream-66.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Telemundo (1)
-https://dlhd.dad/embed/stream-131.php/|webvideocast
+https://dlhd.dad/embed/stream-131.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TBS USA (1)
-https://dlhd.dad/embed/stream-336.php/|webvideocast
+https://dlhd.dad/embed/stream-336.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TLC (1)
-https://dlhd.dad/embed/stream-337.php/|webvideocast
+https://dlhd.dad/embed/stream-337.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TNT USA (1)
-https://dlhd.dad/embed/stream-338.php/|webvideocast
+https://dlhd.dad/embed/stream-338.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVA Sports (1)
-https://dlhd.dad/embed/stream-833.php/|webvideocast
+https://dlhd.dad/embed/stream-833.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVA Sports 2 (1)
-https://dlhd.dad/embed/stream-834.php/|webvideocast
+https://dlhd.dad/embed/stream-834.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Travel Channel (1)
-https://dlhd.dad/embed/stream-340.php/|webvideocast
+https://dlhd.dad/embed/stream-340.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TruTV USA (1)
-https://dlhd.dad/embed/stream-341.php/|webvideocast
+https://dlhd.dad/embed/stream-341.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVLAND (1)
-https://dlhd.dad/embed/stream-342.php/|webvideocast
+https://dlhd.dad/embed/stream-342.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TCM USA (1)
-https://dlhd.dad/embed/stream-644.php/|webvideocast
+https://dlhd.dad/embed/stream-644.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TMC Channel USA (1)
-https://dlhd.dad/embed/stream-698.php/|webvideocast
+https://dlhd.dad/embed/stream-698.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",The Food Network (1)
-https://dlhd.dad/embed/stream-384.php/|webvideocast
+https://dlhd.dad/embed/stream-384.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",The Weather Channel (1)
-https://dlhd.dad/embed/stream-394.php/|webvideocast
+https://dlhd.dad/embed/stream-394.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVP INFO (1)
-https://dlhd.dad/embed/stream-452.php/|webvideocast
+https://dlhd.dad/embed/stream-452.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TeenNick (1)
-https://dlhd.dad/embed/stream-650.php/|webvideocast
+https://dlhd.dad/embed/stream-650.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV ONE USA (1)
-https://dlhd.dad/embed/stream-660.php/|webvideocast
+https://dlhd.dad/embed/stream-660.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV2 Bornholm Denmark (1)
-https://dlhd.dad/embed/stream-807.php/|webvideocast
+https://dlhd.dad/embed/stream-807.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV2 Sport X Denmark (1)
-https://dlhd.dad/embed/stream-808.php/|webvideocast
+https://dlhd.dad/embed/stream-808.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV3 Sport Denmark (1)
-https://dlhd.dad/embed/stream-809.php/|webvideocast
+https://dlhd.dad/embed/stream-809.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV2 Sport Denmark (1)
-https://dlhd.dad/embed/stream-810.php/|webvideocast
+https://dlhd.dad/embed/stream-810.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV2 Denmark (1)
-https://dlhd.dad/embed/stream-817.php/|webvideocast
+https://dlhd.dad/embed/stream-817.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV2 Zulu (1)
-https://dlhd.dad/embed/stream-818.php/|webvideocast
+https://dlhd.dad/embed/stream-818.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TV3+ Denmark (1)
-https://dlhd.dad/embed/stream-819.php/|webvideocast
+https://dlhd.dad/embed/stream-819.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",TVO CA (1)
-https://dlhd.dad/embed/stream-842.php/|webvideocast
+https://dlhd.dad/embed/stream-842.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 1 (1)
-https://dlhd.dad/embed/stream-700.php/|webvideocast
+https://dlhd.dad/embed/stream-700.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 2 (1)
-https://dlhd.dad/embed/stream-701.php/|webvideocast
+https://dlhd.dad/embed/stream-701.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 3 (1)
-https://dlhd.dad/embed/stream-702.php/|webvideocast
+https://dlhd.dad/embed/stream-702.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 4 (1)
-https://dlhd.dad/embed/stream-703.php/|webvideocast
+https://dlhd.dad/embed/stream-703.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 5 (1)
-https://dlhd.dad/embed/stream-704.php/|webvideocast
+https://dlhd.dad/embed/stream-704.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 6 (1)
-https://dlhd.dad/embed/stream-705.php/|webvideocast
+https://dlhd.dad/embed/stream-705.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 7 (1)
-https://dlhd.dad/embed/stream-706.php/|webvideocast
+https://dlhd.dad/embed/stream-706.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 8 (1)
-https://dlhd.dad/embed/stream-707.php/|webvideocast
+https://dlhd.dad/embed/stream-707.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 9 (1)
-https://dlhd.dad/embed/stream-708.php/|webvideocast
+https://dlhd.dad/embed/stream-708.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 10 (1)
-https://dlhd.dad/embed/stream-709.php/|webvideocast
+https://dlhd.dad/embed/stream-709.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 11 (1)
-https://dlhd.dad/embed/stream-710.php/|webvideocast
+https://dlhd.dad/embed/stream-710.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 12 (1)
-https://dlhd.dad/embed/stream-711.php/|webvideocast
+https://dlhd.dad/embed/stream-711.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 13 (1)
-https://dlhd.dad/embed/stream-712.php/|webvideocast
+https://dlhd.dad/embed/stream-712.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 14 (1)
-https://dlhd.dad/embed/stream-713.php/|webvideocast
+https://dlhd.dad/embed/stream-713.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Tennis+ 15 (1)
-https://dlhd.dad/embed/stream-714.php/|webvideocast
+https://dlhd.dad/embed/stream-714.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",USA Network (1)
-https://dlhd.dad/embed/stream-343.php/|webvideocast
+https://dlhd.dad/embed/stream-343.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Universal Kids USA (1)
-https://dlhd.dad/embed/stream-668.php/|webvideocast
+https://dlhd.dad/embed/stream-668.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Univision (1)
-https://dlhd.dad/embed/stream-132.php/|webvideocast
+https://dlhd.dad/embed/stream-132.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Unimas (1)
-https://dlhd.dad/embed/stream-133.php/|webvideocast
+https://dlhd.dad/embed/stream-133.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Viaplay Sports 1 UK (1)
-https://dlhd.dad/embed/stream-451.php/|webvideocast
+https://dlhd.dad/embed/stream-451.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Viaplay Sports 2 UK (1)
-https://dlhd.dad/embed/stream-550.php/|webvideocast
+https://dlhd.dad/embed/stream-550.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Viaplay Xtra UK (1)
-https://dlhd.dad/embed/stream-597.php/|webvideocast
+https://dlhd.dad/embed/stream-597.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",#Vamos Spain (1)
-https://dlhd.dad/embed/stream-521.php/|webvideocast
+https://dlhd.dad/embed/stream-521.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",V Film Premiere (1)
-https://dlhd.dad/embed/stream-815.php/|webvideocast
+https://dlhd.dad/embed/stream-815.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",V Film Family (1)
-https://dlhd.dad/embed/stream-816.php/|webvideocast
+https://dlhd.dad/embed/stream-816.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",VH1 USA (1)
-https://dlhd.dad/embed/stream-344.php/|webvideocast
+https://dlhd.dad/embed/stream-344.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Veronica NL Netherland (1)
-https://dlhd.dad/embed/stream-378.php/|webvideocast
+https://dlhd.dad/embed/stream-378.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",VTV+ Uruguay (1)
-https://dlhd.dad/embed/stream-391.php/|webvideocast
+https://dlhd.dad/embed/stream-391.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",VICE TV (1)
-https://dlhd.dad/embed/stream-659.php/|webvideocast
+https://dlhd.dad/embed/stream-659.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Willow Cricket (1)
-https://dlhd.dad/embed/stream-346.php/|webvideocast
+https://dlhd.dad/embed/stream-346.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Willow XTRA (1)
-https://dlhd.dad/embed/stream-598.php/|webvideocast
+https://dlhd.dad/embed/stream-598.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",WWE Network (1)
-https://dlhd.dad/embed/stream-376.php/|webvideocast
+https://dlhd.dad/embed/stream-376.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Win Sports+ Columbia (1)
-https://dlhd.dad/embed/stream-392.php/|webvideocast
+https://dlhd.dad/embed/stream-392.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",WETV USA (1)
-https://dlhd.dad/embed/stream-655.php/|webvideocast
+https://dlhd.dad/embed/stream-655.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",WDR DE (1)
-https://dlhd.dad/embed/stream-734.php/|webvideocast
+https://dlhd.dad/embed/stream-734.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",YES Network USA (1)
-https://dlhd.dad/embed/stream-763.php/|webvideocast
+https://dlhd.dad/embed/stream-763.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Yes Movies Action Israel (1)
-https://dlhd.dad/embed/stream-543.php/|webvideocast
+https://dlhd.dad/embed/stream-543.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Yes Movies Kids Israel (1)
-https://dlhd.dad/embed/stream-544.php/|webvideocast
+https://dlhd.dad/embed/stream-544.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Yes Movies Comedy Israel (1)
-https://dlhd.dad/embed/stream-545.php/|webvideocast
+https://dlhd.dad/embed/stream-545.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Yas TV UAE (1)
-https://dlhd.dad/embed/stream-609.php/|webvideocast
+https://dlhd.dad/embed/stream-609.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Yes TV CA (1)
-https://dlhd.dad/embed/stream-837.php/|webvideocast
+https://dlhd.dad/embed/stream-837.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Ziggo Sport Docu NL (1)
-https://dlhd.dad/embed/stream-383.php/|webvideocast
+https://dlhd.dad/embed/stream-383.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Ziggo Sport Select NL (1)
-https://dlhd.dad/embed/stream-393.php/|webvideocast
+https://dlhd.dad/embed/stream-393.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Ziggo Sport Racing NL (1)
-https://dlhd.dad/embed/stream-396.php/|webvideocast
+https://dlhd.dad/embed/stream-396.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",Ziggo Sport Voetbal NL (1)
-https://dlhd.dad/embed/stream-398.php/|webvideocast
+https://dlhd.dad/embed/stream-398.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",BBC 1 DE (1)
-https://dlhd.dad/embed/stream-727.php/|webvideocast
+https://dlhd.dad/embed/stream-727.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",ZDF Info DE (1)
-https://dlhd.dad/embed/stream-728.php/|webvideocast
+https://dlhd.dad/embed/stream-728.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",20 Mediaset Italy (1)
-https://dlhd.dad/embed/stream-857.php/|webvideocast
+https://dlhd.dad/embed/stream-857.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",6'eren Denmark (1)
-https://dlhd.dad/embed/stream-800.php/|webvideocast
+https://dlhd.dad/embed/stream-800.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",#0 Spain (1)
-https://dlhd.dad/embed/stream-437.php/|webvideocast
+https://dlhd.dad/embed/stream-437.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",5 USA (1)
-https://dlhd.dad/embed/stream-360.php/|webvideocast
+https://dlhd.dad/embed/stream-360.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",3sat DE (1)
-https://dlhd.dad/embed/stream-726.php/|webvideocast
+https://dlhd.dad/embed/stream-726.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-01) (1)
-https://dlhd.dad/embed/stream-501.php/|webvideocast
+https://dlhd.dad/embed/stream-501.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-02) (1)
-https://dlhd.dad/embed/stream-502.php/|webvideocast
+https://dlhd.dad/embed/stream-502.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-03) (1)
-https://dlhd.dad/embed/stream-503.php/|webvideocast
+https://dlhd.dad/embed/stream-503.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-04) (1)
-https://dlhd.dad/embed/stream-504.php/|webvideocast
+https://dlhd.dad/embed/stream-504.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-05) (1)
-https://dlhd.dad/embed/stream-505.php/|webvideocast
+https://dlhd.dad/embed/stream-505.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-06) (1)
-https://dlhd.dad/embed/stream-506.php/|webvideocast
+https://dlhd.dad/embed/stream-506.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-07) (1)
-https://dlhd.dad/embed/stream-507.php/|webvideocast
+https://dlhd.dad/embed/stream-507.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-08) (1)
-https://dlhd.dad/embed/stream-508.php/|webvideocast
+https://dlhd.dad/embed/stream-508.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-09) (1)
-https://dlhd.dad/embed/stream-509.php/|webvideocast
+https://dlhd.dad/embed/stream-509.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-10) (1)
-https://dlhd.dad/embed/stream-510.php/|webvideocast
+https://dlhd.dad/embed/stream-510.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-11) (1)
-https://dlhd.dad/embed/stream-511.php/|webvideocast
+https://dlhd.dad/embed/stream-511.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-12) (1)
-https://dlhd.dad/embed/stream-512.php/|webvideocast
+https://dlhd.dad/embed/stream-512.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-13) (1)
-https://dlhd.dad/embed/stream-513.php/|webvideocast
+https://dlhd.dad/embed/stream-513.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-14) (1)
-https://dlhd.dad/embed/stream-514.php/|webvideocast
+https://dlhd.dad/embed/stream-514.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-15) (1)
-https://dlhd.dad/embed/stream-515.php/|webvideocast
+https://dlhd.dad/embed/stream-515.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-16) (1)
-https://dlhd.dad/embed/stream-516.php/|webvideocast
+https://dlhd.dad/embed/stream-516.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-17) (1)
-https://dlhd.dad/embed/stream-517.php/|webvideocast
+https://dlhd.dad/embed/stream-517.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-18) (1)
-https://dlhd.dad/embed/stream-518.php/|webvideocast
+https://dlhd.dad/embed/stream-518.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-19) (1)
-https://dlhd.dad/embed/stream-519.php/|webvideocast
+https://dlhd.dad/embed/stream-519.php|webvideocast
 #EXTINF:-1 group-title="webvideocast",18+ (Player-20) (1)
-https://dlhd.dad/embed/stream-520.php/|webvideocast
+https://dlhd.dad/embed/stream-520.php|webvideocast
